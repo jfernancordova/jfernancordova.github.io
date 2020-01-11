@@ -1,0 +1,26 @@
+- title: "Coding Interview University"
+  url: "https://github.com/jwasham/coding-interview-university/"
+  issues: []
+  prs: [436]
+  language: "Markdown"
+  icon: github
+
+- title: "kit Starter Symfony 4 Docker"
+  url: "https://github.com/romaricp/kit-starter-symfony-4-docker/"
+  prs: [9]
+  language: "PHP, Docker"
+  icon: github
+
+- title: "Docker PHP"
+  url: "https://github.com/docker-php/docker-php/"
+  prs: [317]
+  language: "PHP"
+  icon: github
+
+- title: "Gitlab, Inc."
+  url: "https://crowdin.com/profile/jfernancordova"
+  issues: []
+  prs: []
+  language: "Translator"
+  comment: "Spanish Translator"
+  icon: globe

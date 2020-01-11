@@ -1,0 +1,93 @@
+- title: "Full Stack Developer"
+  company: "Geopagos"
+  link: "https://www.geopagos.com/"
+  dates: "2019 - Present"
+  points:
+    - Implement the best management and code tools in which allow us to improve the quality of our product and achieve the highest satisfaction of our internal and external customers.
+  tech:
+    - Symfony PHP Framework
+    - GrumPHP
+    - SonarLint
+    - Xdebug
+    - React.js
+    - Docker Compose
+    - MySQL
+    - Redis
+    - Gitflow
+    - Nginx
+    - Design Patterns
+    - Scrum & XP Agile
+    - Jira
+    - APIs Rest
+
+- title: "DevOps"
+  company: "Geopagos"
+  link: "https://www.geopagos.com/"
+  dates: "2018 - 2019"
+  points:
+    - Architecture oriented to MicroServices supported by Containers. Docker ecosystem.
+    - Development of an internal platform for the management, monitoring and control of Delivery (SwOps).
+  tech:
+    - Golang
+    - Yii PHP Framework
+    - Docker
+    - Docker Swarm
+    - DTR
+    - Portainer
+    - Traefik
+    - Shell Script
+    - Clusters
+    - Amazon Web Services
+    - ELK
+    - Jira - Scrum & XP Agile
+    - Gitlab Workflow
+    - MySQL
+    - Sequence diagrams
+    - Redis
+
+- title: "Backend Developer"
+  company: "Kinetics Solutions"
+  link: "https://www.kineticssolutions.com/"
+  dates: "2015 - 2018"
+  points:
+    - My work was focused in the development department with the creation of large platforms and web applications for our clients.
+  tech:
+    - Laravel PHP Framework
+    - Python
+    - Angular 2
+    - Redis
+    - MySQL
+    - Docker
+    - Git
+    - Nginx
+    - Amazon Web Services
+    - Bitbucket
+    - Scrum & XP Agile
+    - APIs Rest
+
+- title: "Backend Developer"
+  company: "Grupo Nepuntobiz, CA"
+  link: "https://www.negocioselectronicos.biz/"
+  dates: "2015 - 2018"
+  points:
+    - My work is focused in the backend development of web and mobile applications.
+  tech:
+    - Laravel PHP Framework
+    - Python
+    - Angular 2
+    - Redis
+    - MySQL
+    - Docker
+    - Git
+    - Nginx
+    - Amazon Web Services
+    - Bitbucket
+    - Scrum & XP Agile
+    - APIs Rest
+
+- title: "System Analyst"
+  company: "PDVSA Petroleos de Venezuela S.A."
+  link: "http://www.pdvsa.com/index.php?lang=es"
+  dates: "2015 - 2015"
+  points:
+    - My work was focused on the IT department when I supported the multiple platforms that the company used for improving its productions.

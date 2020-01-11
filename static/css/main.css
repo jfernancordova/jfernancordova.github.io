@@ -4,13 +4,14 @@ html,
 body {
   height: 100%;
   background-color: #fff;
-  font-family: 'Source Sans Pro', sans-serif;
+  font-family: "Source Sans Pro", sans-serif;
   /* The html and body elements cannot have any padding or margin. */
-  border-top: 3px solid #27A822;
+  border-top: 3px solid #27a822;
 }
+
 /* Wrapper for page content to push down footer */
 #wrap {
-  padding-bottom: 50px;	
+  padding-bottom: 50px;
   min-height: 100%;
   height: auto;
   /* Negative indent footer by its height */
@@ -19,9 +20,29 @@ body {
   /*padding: 0 0 60px;*/
 }
 
+.figure {
+  font-size: 85%;
+  color: #aaa;
+}
+
+.lang {
+  float: right;
+  color: #bbb;
+}
+
+.opensourceitem {
+  border-bottom: #ddd dotted 1px;
+  padding-bottom: 5px;
+}
+
 /* Navbar
 -------------------------------------------------- */
 
+.home-text {
+  padding-left: 5px;
+  font-size: 14px;
+  font-family: "Source Sans Pro", sans-serif;
+}
 .navbar-static-top {
   margin-bottom: 10px;
 }
@@ -32,7 +53,8 @@ body {
 .navbar-default .navbar-brand {
   color: #6b6b6b;
 }
-.navbar-default .navbar-brand:hover, .navbar-default .navbar-brand:focus {
+.navbar-default .navbar-brand:hover,
+.navbar-default .navbar-brand:focus {
   color: #6b6b6b;
 }
 .navbar-default .navbar-text {
@@ -41,21 +63,27 @@ body {
 .navbar-default .navbar-nav > li > a {
   color: #6b6b6b;
 }
-.navbar-default .navbar-nav > li > a:hover, .navbar-default .navbar-nav > li > a:focus {
+.navbar-default .navbar-nav > li > a:hover,
+.navbar-default .navbar-nav > li > a:focus {
   color: #6b6b6b;
 }
-.navbar-default .navbar-nav > .active > a, .navbar-default .navbar-nav > .active > a:hover, .navbar-default .navbar-nav > .active > a:focus {
+.navbar-default .navbar-nav > .active > a,
+.navbar-default .navbar-nav > .active > a:hover,
+.navbar-default .navbar-nav > .active > a:focus {
   color: #6b6b6b;
   background-color: #ffffff;
 }
-.navbar-default .navbar-nav > .open > a, .navbar-default .navbar-nav > .open > a:hover, .navbar-default .navbar-nav > .open > a:focus {
+.navbar-default .navbar-nav > .open > a,
+.navbar-default .navbar-nav > .open > a:hover,
+.navbar-default .navbar-nav > .open > a:focus {
   color: #6b6b6b;
   background-color: #ffffff;
 }
 .navbar-default .navbar-toggle {
   border-color: #ffffff;
 }
-.navbar-default .navbar-toggle:hover, .navbar-default .navbar-toggle:focus {
+.navbar-default .navbar-toggle:hover,
+.navbar-default .navbar-toggle:focus {
   background-color: #ffffff;
 }
 .navbar-default .navbar-toggle .icon-bar {
@@ -75,10 +103,13 @@ body {
   .navbar-default .navbar-nav .open .dropdown-menu > li > a {
     color: #6b6b6b;
   }
-  .navbar-default .navbar-nav .open .dropdown-menu > li > a:hover, .navbar-default .navbar-nav .open .dropdown-menu > li > a:focus {
+  .navbar-default .navbar-nav .open .dropdown-menu > li > a:hover,
+  .navbar-default .navbar-nav .open .dropdown-menu > li > a:focus {
     color: #6b6b6b;
   }
-  .navbar-default .navbar-nav .open .dropdown-menu > .active > a, .navbar-default .navbar-nav .open .dropdown-menu > .active > a:hover, .navbar-default .navbar-nav .open .dropdown-menu > .active > a:focus {
+  .navbar-default .navbar-nav .open .dropdown-menu > .active > a,
+  .navbar-default .navbar-nav .open .dropdown-menu > .active > a:hover,
+  .navbar-default .navbar-nav .open .dropdown-menu > .active > a:focus {
     color: #6b6b6b;
     background-color: #ffffff;
   }
@@ -96,15 +127,15 @@ body {
   margin: 20px 0;
 }
 .container a {
-  color: #27A822;
+  color: #27a822;
 }
 .container a:hover {
   color: #267723;
 }
 .img-responsive {
- display: block;
- height: auto;
- max-width: 100%;
+  display: block;
+  height: auto;
+  max-width: 100%;
 }
 .panel-default h4 {
   text-align: left;
@@ -119,13 +150,15 @@ body {
 .panel-default h6 {
   font-size: 15px;
 }
-.panel-default h4 a, h5 a {
-  color: #27A822;
+.panel-default h4 a,
+h5 a {
+  color: #27a822;
 }
-.panel-default h4 a:hover, h5 a:hover {
+.panel-default h4 a:hover,
+h5 a:hover {
   color: #267723;
 }
-.panel{
+.panel {
   border-style: none;
 }
 .panel-body {
@@ -142,10 +175,10 @@ body {
 .avatar {
   padding-top: 5%;
 }
-.blog-post{
+.blog-post {
   padding-top: 15px;
 }
-.blog-title{
+.blog-title {
   padding-top: 2px;
 }
 .related-posts h4 {
@@ -158,27 +191,104 @@ body {
   padding-bottom: 15px;
 }
 
-.blogpost{
+.blogpost {
   text-align: left;
   line-height: 30px;
   font-size: 18px;
 }
 
-/* Footer 
+.txtaligncenter {
+  text-align: center;
+}
+
+/* Papers
+-------------------------------------------------- */
+
+.abstract {
+  font-size: 10pt;
+  line-height: 1.5em;
+  color: #666;
+  margin-top: 0.8em;
+}
+
+.papers h5 {
+  line-height: 1.4em;
+  margin-top: 1.3em;
+}
+
+/* Talks
+-------------------------------------------------- */
+
+.place {
+  line-height: 26px;
+  color: #8b8b8b;
+}
+
+/* Projects
+-------------------------------------------------- */
+
+.project {
+  margin-bottom: 1.5em;
+}
+
+.project.closer {
+  margin-bottom: 1em;
+}
+
+.project .title {
+  color: #27a822;
+  font-weight: 500;
+}
+
+.project .company {
+  clear: both;
+  display: block;
+  line-height: 20px;
+  margin-bottom: 0.5em;
+}
+
+.project .dates {
+  float: right;
+  color: #8b8b8b;
+  font-size: 90%;
+}
+
+.project ul {
+  list-style: none;
+  padding-left: 1.1em;
+  margin-bottom: 0.5em;
+}
+
+.project ul li {
+  line-height: 26px;
+  color: #8b8b8b;
+  font-size: 90%;
+  list-style: disc;
+  padding-left: 0;
+}
+
+.project .tech,
+.project .techlist {
+  line-height: 26px;
+  color: #8b8b8b;
+  font-size: 90%;
+}
+
+/* Footer
 -------------------------------------------------- */
 
 .footer {
   text-decoration: none !important;
 }
 .text-muted {
-	color: #6b6b6b;
+  color: #6b6b6b;
 }
-div.footer{
-  border-bottom: 5px solid #27A822;;
+div.footer {
+  border-bottom: 5px solid #27a822;
 }
 /* Set the fixed height of the footer here */
 /*.footer {
   height: 50px;
   padding-bottom: 15px;
-  
+
 }*/

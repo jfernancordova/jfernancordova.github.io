@@ -1,0 +1,67 @@
+<section id="projects">
+  <div class="container">
+    <div class="panel panel-default">
+      <h3 name="education" id="education">Education</h3>
+      <div class="panel-body">
+        <h5 class="project closer">
+          <span class="title">PhD in Computer Science</span>
+          <span class="dates">2011 - 2015</span>
+          <span class="company">
+            University of Amsterdam - Amsterdam, The Netherlands
+            <a href="https://www.illc.uva.nl/" target="_blank">
+              <i class="fa fa-external-link" style="font-size: 70%;"></i>
+            </a>
+          </span>
+        </h5>
+
+        <h5 class="project closer">
+          <span class="title">Master's degree in Computer Science</span>
+          <span class="dates">2008 - 2010</span>
+          <span class="company">
+            University of Buenos Aires - Buenos Aires, Argentina
+          </span>
+        </h5>
+
+        <h5 class="project closer">
+          <span class="title">Bachelor's degree in Computer Science</span>
+          <span class="dates">2005 - 2008</span>
+          <span class="company"
+            >University of Buenos Aires - Buenos Aires, Argentina</span
+          >
+        </h5>
+      </div>
+    </div>
+
+    <div class="panel panel-default">
+      <h3>Employment</h3>
+      <div class="panel-body">
+        {% for project in site.data.employment %}
+        <h5 class="project">
+          <!-- <i class="fa fa-cog"></i>&nbsp;&nbsp; -->
+          <span class="title">{{ project.title }}</span>
+          <span class="dates">{{ project.dates }}</span>
+          <span class="company">
+            {{ project.company }} {% if project.link %}
+            <a href="{{ project.link }}" target="_blank">
+              <i class="fa fa-external-link" style="font-size: 70%;"></i>
+            </a>
+            {% endif %}
+          </span>
+          {% if project.points %}
+          <ul>
+            {% for item in project.points %}
+            <li>{{ item }}</li>
+            {% endfor %}
+          </ul>
+          {% endif %} {% if project.tech %}
+          <span class="tech">Technologies:</span>
+          <span class="techlist"
+            >{{ project.tech | array_to_sentence_string }}</span
+          >
+          {% endif %}
+        </h5>
+        {% endfor %}
+      </div>
+    </div>
+  </div>
+</section>

@@ -3,4 +3,74 @@ layout: page
 title: Projects
 ---
 
-{% include projects.html %}
+<section id="projects">
+  <div class="container">
+    <h3>Projects</h3>
+    <div class="panel panel-default">
+      <div class="panel-body">
+        <div style="text-align: left; font-size: 15px;">
+          I have accounts at
+          <a href="https://github.com/jfernancordova" target="_blank">GitHub</a
+          >, and
+          <a href="https://gitlab.com/jfernancordova" target="_blank">GitLab</a
+          >, and However, most of the work I do is private, so you will not be
+          able to see it. My contributions are better accessed through the
+          following list.
+        </div>
+        <hr />
+        <div class="panel-body opensource">
+          {% for project in site.data.projects %}
+          <h5 class="opensourceitem">
+            <span class="fa fa-github"></span>&nbsp;&nbsp; {% if
+            project.addendum %}
+            <a href="{{ project.url }}" target="_blank">{{ project.title }}</a>
+            ({{ project.addendum }}): {% else %}
+            <a href="{{ project.url }}" target="_blank">{{ project.title }}</a>:
+            {% endif %} {% if project.issues.size > 0 %} Issues {% for issue in
+            project.issues %}
+            <a href="{{ project.url }}issues/{{ issue }}" target="_blank">
+              #{{ issue }}</a
+            >{% if forloop.last %}.{% else %}, {% endif %} {% endfor %} {% endif
+            %} {% if project.prs.size > 0 %} Pull requests {% for pr in
+            project.prs %}
+            <a href="{{ project.url }}pull/{{ pr }}" target="_blank">
+              #{{ pr }}</a
+            >{% if forloop.last %}.{% else %}, {% endif %} {% endfor %} {% endif
+            %} {{ project.comment }} {% if project.language %}
+            <span class="lang">{{ project.language }}</span>
+            {% endif %}
+          </h5>
+          {% endfor %}
+        </div>
+      </div>
+    </div>
+  </div>
+  <div class="container">
+    <h3>Open Source</h3>
+    <div class="panel panel-default">
+      <div class="panel-body opensource">
+        {% for ositem in site.data.opensource %}
+        <h5 class="opensourceitem">
+          <span class="fa fa-{{ositem.icon}}"></span>&nbsp;&nbsp; {% if
+          ositem.addendum %}
+          <a href="{{ ositem.url }}" target="_blank">{{ ositem.title }}</a>
+          ({{ ositem.addendum }}): {% else %}
+          <a href="{{ ositem.url }}" target="_blank">{{ ositem.title }}</a>: {%
+          endif %} {% if ositem.issues.size > 0 %} Issues {% for issue in
+          ositem.issues %}
+          <a href="{{ ositem.url }}issues/{{ issue }}" target="_blank">
+            #{{ issue }}</a
+          >{% if forloop.last %}.{% else %}, {% endif %} {% endfor %} {% endif
+          %} {% if ositem.prs.size > 0 %} Pull requests {% for pr in ositem.prs
+          %}
+          <a href="{{ ositem.url }}pull/{{ pr }}" target="_blank"> #{{ pr }}</a
+          >{% if forloop.last %}.{% else %}, {% endif %} {% endfor %} {% endif
+          %} {{ ositem.comment }} {% if ositem.language %}
+          <span class="lang">{{ ositem.language }}</span>
+          {% endif %}
+        </h5>
+        {% endfor %}
+      </div>
+    </div>
+  </div>
+</section>

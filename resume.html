@@ -1,0 +1,92 @@
+---
+layout: page
+title: Resume
+---
+
+<section id="projects">
+  <div class="container">
+    <div class="panel panel-default">
+      <h3 name="education" id="education">Education</h3>
+      <div class="panel-body">
+        <h5 class="project closer">
+          <span class="title">Bsc in Information Technology</span>
+          <span class="dates">2018 - Present</span>
+          <span class="company">
+            Interamerican Open University - Buenos Aires, Argentina
+            <a
+              href="https://www.uai.edu.ar/facultades/tecnolog%C3%ADa-inform%C3%A1tica/"
+              target="_blank"
+            >
+              <i class="fa fa-external-link" style="font-size: 70%;"></i>
+            </a>
+          </span>
+        </h5>
+
+        <h5 class="project closer">
+          <span class="title">Software Development</span>
+          <span class="dates">2016 - 2018</span>
+          <span class="company">
+            Platzi - San Francisco, USA
+            <a href="https://platzi.com/" target="_blank">
+              <i class="fa fa-external-link" style="font-size: 70%;"></i>
+            </a>
+          </span>
+        </h5>
+        <h5 class="project closer">
+          <span class="title">American English Course</span>
+          <span class="dates">2014 - 2016</span>
+          <span class="company">
+            University Of Carabobo, Valencia, Venezuela
+            <a href="http://www.uc.edu.ve/univ_dep_fundauc.php" target="_blank">
+              <i class="fa fa-external-link" style="font-size: 70%;"></i>
+            </a>
+          </span>
+        </h5>
+        <h5 class="project closer">
+          <span class="title">Computer Technician</span>
+          <span class="dates">2012 - 2015</span>
+          <span class="company">
+            Don Bosco Technical Institute, Valencia, Venezuela
+            <a
+              href="https://www.linkedin.com/company/unidad-educativa-colegio-don-bosco/about/"
+              target="_blank"
+            >
+              <i class="fa fa-external-link" style="font-size: 70%;"></i>
+            </a>
+          </span>
+        </h5>
+      </div>
+    </div>
+
+    <div class="panel panel-default">
+      <h3>Work Experience</h3>
+      <div class="panel-body">
+        {% for project in site.data.employment %}
+        <h5 class="project">
+          <span class="title">{{ project.title }}</span>
+          <span class="dates">{{ project.dates }}</span>
+          <span class="company">
+            {{ project.company }} {% if project.link %}
+            <a href="{{ project.link }}" target="_blank">
+              <i class="fa fa-external-link" style="font-size: 70%;"></i>
+            </a>
+            {% endif %}
+          </span>
+          {% if project.points %}
+          <ul>
+            {% for item in project.points %}
+            <li>{{ item }}</li>
+            {% endfor %}
+          </ul>
+          {% endif %} {% if project.tech %}
+          <span class="tech">Technologies:</span>
+          <span class="techlist"
+            >{{ project.tech | array_to_sentence_string }}</span
+          >
+          {% endif %}
+        </h5>
+        {% endfor %}
+      </div>
+    </div>
+  </div>
+</section>
