@@ -2,8 +2,6 @@
   company: "Geopagos"
   link: "https://www.geopagos.com/"
   dates: "2019 - Present"
-  points:
-    - Implement the best management and code tools in which allow us to improve the quality of our product and achieve the highest satisfaction of our internal and external customers.
   tech:
     - Symfony PHP Framework
     - GrumPHP
@@ -25,8 +23,8 @@
   link: "https://www.geopagos.com/"
   dates: "2018 - 2019"
   points:
-    - Architecture oriented to MicroServices supported by Containers. Docker ecosystem.
-    - Development of an internal platform for the management, monitoring and control of Delivery (SwOps).
+    - Worked on Architecture oriented to MicroServices supported by Containers. Docker ecosystem.
+    - Created an internal platform for the management, monitoring and control of Delivery (SwOps).
   tech:
     - Golang
     - Yii PHP Framework
@@ -50,7 +48,9 @@
   link: "https://www.kineticssolutions.com/"
   dates: "2015 - 2018"
   points:
-    - My work was focused in the development department with the creation of large platforms and web applications for our clients.
+    - Created a Restful API integrated with Zoho CRM and Vimeo API.
+    - Implemented a SNMP API system with PHP.
+    - Refactored code to SOLID principles.
   tech:
     - Laravel PHP Framework
     - Python
@@ -70,7 +70,10 @@
   link: "https://www.negocioselectronicos.biz/"
   dates: "2015 - 2018"
   points:
-    - My work is focused in the backend development of web and mobile applications.
+    - Created a Restful API integrated with Zoho CRM.
+    - Created Amazon EC2 Instances.
+    - Configured Load Balancing and domain names with Amazon Route 53.
+    - Deployed and maintaned the applications on AWS.
   tech:
     - Laravel PHP Framework
     - Python
@@ -90,4 +93,4 @@
   link: "http://www.pdvsa.com/index.php?lang=es"
   dates: "2015 - 2015"
   points:
-    - My work was focused on the IT department when I supported the multiple platforms that the company used for improving its productions.
+    - Worked on the IT Department to support web applications.
