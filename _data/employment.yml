@@ -3,9 +3,9 @@
   link: "https://www.geopagos.com/"
   dates: "2019 - Present"
   points:
-    - Improved backend existing functionality.
+    - Worked developing RESTful APIs dockerized.
     - Provided support to QA testers.
-    - Created specifications for new features on the working platform.
+    - Refactored code to SOLID principles.
   tech:
     - Symfony PHP Framework
     - GrumPHP
@@ -20,7 +20,6 @@
     - Design Patterns
     - Scrum & XP Agile
     - Jira
-    - APIs Rest
 
 - title: "DevOps"
   company: "Geopagos"
@@ -52,9 +51,9 @@
   link: "https://www.kineticssolutions.com/"
   dates: "2015 - 2018"
   points:
-    - Created a Restful API integrated with Zoho CRM and Vimeo API.
+    - Developed a RESTful API integrated with Zoho CRM and Vimeo API.
     - Implemented a SNMP API system with PHP.
-    - Refactored code to SOLID principles.
+    - Worked developing server-side applications using Git Workflow.
   tech:
     - Laravel PHP Framework
     - Python
@@ -74,10 +73,8 @@
   link: "https://www.negocioselectronicos.biz/"
   dates: "2015 - 2018"
   points:
-    - Created a Restful API integrated with Zoho CRM.
-    - Created Amazon EC2 Instances.
-    - Configured Load Balancing and domain names with Amazon Route 53.
-    - Deployed and maintaned the applications on AWS.
+    - Worked developing RESTful APIs integrated with Zoho CRM.
+    - Created and configured EC2 Instances, Load Balancing and domain names in AWS.
   tech:
     - Laravel PHP Framework
     - Python
