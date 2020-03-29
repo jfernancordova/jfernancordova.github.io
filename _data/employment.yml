@@ -2,6 +2,10 @@
   company: "Geopagos"
   link: "https://www.geopagos.com/"
   dates: "2019 - Present"
+  points:
+    - Improved backend existing functionality.
+    - Provided support to QA testers.
+    - Created specifications for new features on the working platform.
   tech:
     - Symfony PHP Framework
     - GrumPHP
