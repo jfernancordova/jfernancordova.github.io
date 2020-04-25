@@ -93,17 +93,13 @@ Insert jobs, instructions builds in [this pipeline](https://raw.githubuserconten
 
 #### API Boilerplate Reference
 
-https://github.com/francescomalatesta/laravel-api-boilerplate-jwt/blob/master/readme.md
+- [laravel-api-boilerplate-jwt](https://github.com/francescomalatesta/laravel-api-boilerplate-jwt/blob/master/readme.md)
 
 ## Author
 
-- **José Fernando Cordova ** - _Initial work_ - [jfernancordova](https://github.com/jfernancordova)
+- [José Fernando Cordova](https://github.com/jfernancordova)
 
 ## License
 
-This project is licensed under the MIT License - see the [LICENSE.md](https://github.com/jfernancordova/docker-laravel-api-dev/blob/master/LICENSE.md) file for details
+This project is licensed under the MIT License - see the [LICENSE.md](https://github.com/jfernancordova/docker-laravel-api-dev/blob/master/LICENSE.md) file for more details.
 
-## Acknowledgments
-
-- Hat tip to anyone who's code was used
-- Inspiration
