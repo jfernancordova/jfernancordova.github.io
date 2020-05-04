@@ -7,8 +7,3 @@
   url: "https://github.com/jfernancordova/laravel-stripe"
   comment: "Laravel - Stripe with Social and Email Authentication."
   language: "PHP, Stripe"
-
-- title: "Larazoho"
-  url: "https://github.com/jfernancordova/larazoho"
-  comment: "A Laravel API Boilerplate For Zoho CRM."
-  language: "PHP, Zoho CRM"
