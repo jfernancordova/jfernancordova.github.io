@@ -2,24 +2,13 @@
   company: "Geopagos"
   link: "https://www.geopagos.com/"
   dates: "2019 - Present"
-  points:
-    - Worked developing RESTful APIs dockerized.
-    - Provided support to QA testers.
-    - Refactored code to SOLID principles.
   tech:
     - Symfony PHP Framework
-    - GrumPHP
-    - SonarLint
-    - Xdebug
-    - React.js
-    - Docker Compose
+    - TDD
+    - SonarQube & GrumpPHP
+    - Docker
     - MySQL
-    - Redis
-    - Gitflow
-    - Nginx
-    - Design Patterns
-    - Scrum & XP Agile
-    - Jira
+    - Gitlab
 
 - title: "DevOps"
   company: "Geopagos"
@@ -32,19 +21,11 @@
     - Golang
     - Yii PHP Framework
     - Docker
-    - Docker Swarm
-    - DTR
     - Portainer
     - Traefik
-    - Shell Script
-    - Clusters
     - Amazon Web Services
     - ELK
-    - Jira - Scrum & XP Agile
-    - Gitlab Workflow
     - MySQL
-    - Sequence diagrams
-    - Redis
 
 - title: "Backend Developer"
   company: "Kinetics Solutions"
@@ -57,16 +38,11 @@
   tech:
     - Laravel PHP Framework
     - Python
-    - Angular 2
     - Redis
     - MySQL
-    - Docker
-    - Git
     - Nginx
     - Amazon Web Services
     - Bitbucket
-    - Scrum & XP Agile
-    - APIs Rest
 
 - title: "Backend Developer"
   company: "Grupo Nepuntobiz, CA"
@@ -77,17 +53,10 @@
     - Created and configured EC2 Instances, Load Balancing and domain names in AWS.
   tech:
     - Laravel PHP Framework
-    - Python
-    - Angular 2
-    - Redis
     - MySQL
-    - Docker
-    - Git
     - Nginx
     - Amazon Web Services
     - Bitbucket
-    - Scrum & XP Agile
-    - APIs Rest
 
 - title: "System Analyst"
   company: "PDVSA Petroleos de Venezuela S.A."
