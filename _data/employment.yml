@@ -23,7 +23,7 @@
     - Docker
     - Portainer
     - Traefik
-    - Amazon Web Services
+    - AWS
     - ELK
     - MySQL
 
@@ -41,7 +41,7 @@
     - Redis
     - MySQL
     - Nginx
-    - Amazon Web Services
+    - AWS
     - Bitbucket
 
 - title: "Backend Developer"
@@ -55,7 +55,7 @@
     - Laravel PHP Framework
     - MySQL
     - Nginx
-    - Amazon Web Services
+    - AWS
     - Bitbucket
 
 - title: "System Analyst"
