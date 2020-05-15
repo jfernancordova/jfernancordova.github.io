@@ -1,17 +1,10 @@
 - title: "Backend Developer"
-  company: "Geopagos"
+  company: "GeoPagos"
   link: "https://www.geopagos.com/"
   dates: "2019 - Present"
-  tech:
-    - Symfony PHP Framework
-    - TDD
-    - SonarQube & GrumpPHP
-    - Docker
-    - MySQL
-    - Gitlab
 
 - title: "DevOps"
-  company: "Geopagos"
+  company: "GeoPagos"
   link: "https://www.geopagos.com/"
   dates: "2018 - 2019"
   points:
