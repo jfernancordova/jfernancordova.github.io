@@ -2,6 +2,17 @@
   company: "GeoPagos"
   link: "https://www.geopagos.com/"
   dates: "2019 - Present"
+  points:
+    - Worked developing RESTful APIs with Test Driven Development (TDD).
+    - Refactored code to SOLID principles.
+    - Designed and developed RESTful APIs using Domain-Driven Design.
+  tech:
+    - Symfony PHP Framework
+    - Docker
+    - MySQL
+    - SonarQube
+    - ELK
+    - Gitlab
 
 - title: "DevOps"
   company: "GeoPagos"
@@ -21,33 +32,20 @@
     - MySQL
 
 - title: "Backend Developer"
-  company: "Kinetics Solutions"
-  link: "https://www.kineticssolutions.com/"
-  dates: "2015 - 2018"
-  points:
-    - Developed a RESTful API integrated with Zoho CRM and Vimeo API.
-    - Implemented a SNMP API system with PHP.
-    - Worked developing server-side applications using Git Workflow.
-  tech:
-    - Laravel PHP Framework
-    - Python
-    - Redis
-    - MySQL
-    - Nginx
-    - AWS
-    - Bitbucket
-
-- title: "Backend Developer"
   company: "Grupo Nepuntobiz, CA"
   link: "https://www.negocioselectronicos.biz/"
   dates: "2015 - 2018"
   points:
     - Worked developing RESTful APIs integrated with Zoho CRM.
+    - Implemented a SNMP API system with PHP.
     - Created and configured EC2 Instances, Load Balancing and domain names in AWS.
+    - Developed server-side applications using Git Workflow.
   tech:
     - Laravel PHP Framework
     - MySQL
     - Nginx
+    - Redis
+    - Python
     - AWS
     - Bitbucket
 
@@ -56,4 +54,9 @@
   link: "http://www.pdvsa.com/index.php?lang=es"
   dates: "2015 - 2015"
   points:
-    - Worked on the IT Department to support web applications.
+    - Refactored a traditional web application to a single-page application using AJAX.
+    - Worked in the infrastructure and networking department.
+  tech:
+    - JavaScript
+    - HTML
+    - CSS
