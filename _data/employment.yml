@@ -3,8 +3,8 @@
   link: "https://www.geopagos.com/"
   dates: "2019 - Present"
   points:
-    - Worked developing RESTful APIs with Test Driven Development (TDD).
-    - Refactored code to SOLID principles.
+    - Developed RESTful APIs with Test Driven Development (TDD).
+    - Created a Dockerized development environment.
     - Designed and developed RESTful APIs using Domain-Driven Design.
   tech:
     - Symfony PHP Framework
@@ -36,7 +36,7 @@
   link: "https://www.negocioselectronicos.biz/"
   dates: "2015 - 2018"
   points:
-    - Worked developing RESTful APIs integrated with Zoho CRM.
+    - Designed and developed RESTful APIs integrated with Zoho CRM.
     - Implemented a SNMP API system with PHP.
     - Created and configured EC2 Instances, Load Balancing and domain names in AWS.
     - Developed server-side applications using Git Workflow.
