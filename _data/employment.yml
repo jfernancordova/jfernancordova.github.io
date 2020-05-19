@@ -3,9 +3,9 @@
   link: "https://www.geopagos.com/"
   dates: "2019 - Present"
   points:
-    - Developed RESTful APIs with Test Driven Development (TDD).
+    - Developed RESTful APIs to support core product features.
     - Created a Dockerized development environment.
-    - Designed and developed RESTful APIs using Domain-Driven Design.
+    - Designed APIs and Microservices using Domain-Driven Design.
   tech:
     - Symfony PHP Framework
     - Docker
