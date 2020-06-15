@@ -1,3 +1,10 @@
+- title: "Symfony"
+  url: "https://github.com/symfony/symfony-docs/"
+  issues: []
+  prs: [13852]
+  language: "PHP"
+  icon: github
+
 - title: "Docker"
   url: "https://github.com/docker/docker.github.io/"
   issues: []
@@ -7,7 +14,7 @@
 
 - title: "Kubernetes"
   url: "https://github.com/kubernetes/website/"
-  issues: [21748]
+  issues: []
   prs: [21745, 21744]
   language: "Markdown"
   icon: github
