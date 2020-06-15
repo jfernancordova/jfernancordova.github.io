@@ -2,14 +2,14 @@
   url: "https://github.com/docker/docker.github.io/"
   issues: []
   prs: [10997]
-  language: "Translation"
+  language: "Markdown"
   icon: github
 
 - title: "Kubernetes"
   url: "https://github.com/kubernetes/website/"
   issues: [21748]
   prs: [21745, 21744]
-  language: "Translation"
+  language: "Markdown"
   icon: github
 
 - title: "kit Starter Symfony 4 Docker"
