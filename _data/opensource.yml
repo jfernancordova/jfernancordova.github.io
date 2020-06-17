@@ -15,7 +15,7 @@
 - title: "Kubernetes"
   url: "https://github.com/kubernetes/website/"
   issues: []
-  prs: [21745, 21744]
+  prs: [21831, 21754]
   language: "Markdown"
   icon: github
 
