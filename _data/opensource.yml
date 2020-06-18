@@ -22,7 +22,7 @@
 - title: "Kubernetes"
   url: "https://github.com/kubernetes/website/"
   issues: []
-  prs: [21831, 21754]
+  prs: [21831, 21744, 21745, 21754]
   language: "HTML"
   icon: github
 
