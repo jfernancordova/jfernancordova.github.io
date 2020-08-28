@@ -29,7 +29,7 @@ This is why I always say to my friends, mates, or any person who wants to learn 
 ## Recommended Reading List
 ---
 ### Software Development
-This list is focused on general learning about it, I mean, it doesn't matter the programming language, fundamentals instead!
+This list is focused on general learning about it, it doesn't matter the programming language, fundamentals instead!
 - [The Pragmatic Programmer: From Journeyman to Master](https://www.amazon.com/Pragmatic-Programmer-Journeyman-Master/dp/020161622X)
 - [The Clean Coder: A Code of Conduct for Professional Programmers](https://www.amazon.com/Clean-Coder-Conduct-Professional-Programmers/dp/0137081073)
 - [Object-Oriented Analysis and Design with Applications](https://www.amazon.com/Object-Oriented-Analysis-Design-Applications-3rd/dp/020189551X)
