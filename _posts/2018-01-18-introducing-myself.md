@@ -22,7 +22,7 @@ This is why I always say to my friends, mates, or any person who wants to learn 
 ---
 - I like to play Tables Tennis, watch documentaries, series or movies with my girlfriend and sometimes go out with my friends.
 
-- I like to study, research, go to conferences and read about software development all the time, also I like to read about life, good habits, and meditation.
+- I like to study, research, read about software development all the time, also I like reading about life, good habits, and meditation.
 
 ---
 
