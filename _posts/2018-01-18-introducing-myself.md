@@ -53,9 +53,9 @@ This list is focused on general learning about it. It doesn't matter the program
 ## Recommended Course Lists
 ---
 ### Software Development
-- [Docker Mastery: with Kubernetes +Swarm from a Docker Captain](https://www.amazon.com/Pragmatic-Programmer-Journeyman-Master/dp/020161622X)
+- [Docker Mastery: with Kubernetes +Swarm from a Docker Captain](https://www.udemy.com/course/docker-mastery)
 - [Domain-Driven Design Fundamentals](https://www.pluralsight.com/courses/domain-driven-design-fundamentals)
 - [Construcción de Software Robusto con TDD](https://academia.10pines.com/course_contents/4-construccion-de-software-robusto-con-tdd)
 
-## Life
+### Life
 - [Learning How to Learn: Powerful mental tools to help you master tough subjects](https://www.coursera.org/learn/learning-how-to-learn)
