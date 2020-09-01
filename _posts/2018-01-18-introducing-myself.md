@@ -28,10 +28,10 @@ This is why I always say to my friends, mates, or any person who wants to learn 
 
 ---
 
-## Recommended Reading List
+## Recommended Reading Lists
 ---
 ### Software Development
-This list is focused on general learning about it, it doesn't matter the programming language, fundamentals instead!
+This list is focused on general learning about it. It doesn't matter the programming language!
 - [The Pragmatic Programmer: From Journeyman to Master](https://www.amazon.com/Pragmatic-Programmer-Journeyman-Master/dp/020161622X)
 - [The Clean Coder: A Code of Conduct for Professional Programmers](https://www.amazon.com/Clean-Coder-Conduct-Professional-Programmers/dp/0137081073)
 - [Object-Oriented Analysis and Design with Applications](https://www.amazon.com/Object-Oriented-Analysis-Design-Applications-3rd/dp/020189551X)
@@ -47,3 +47,15 @@ This list is focused on general learning about it, it doesn't matter the program
 -  [Atomic Habits: An Easy & Proven Way to Build Good Habits & Break Bad Ones](https://www.amazon.com/Atomic-Habits-Proven-Build-Break/dp/0735211299)
 -  [How to Stop Worrying and Start Living](https://www.amazon.com/How-Stop-Worrying-Start-Living/dp/0671733354)
 -  [The Four Agreements: A Practical Guide to Personal Freedom](https://www.amazon.com/Four-Agreements-Practical-Personal-Freedom/dp/1878424319)
+
+---
+
+## Recommended Course Lists
+---
+### Software Development
+- [Docker Mastery: with Kubernetes +Swarm from a Docker Captain](https://www.amazon.com/Pragmatic-Programmer-Journeyman-Master/dp/020161622X)
+- [Domain-Driven Design Fundamentals](https://www.pluralsight.com/courses/domain-driven-design-fundamentals)
+- [Construcción de Software Robusto con TDD](https://academia.10pines.com/course_contents/4-construccion-de-software-robusto-con-tdd)
+
+## Life
+- [Learning How to Learn: Powerful mental tools to help you master tough subjects](https://www.coursera.org/learn/learning-how-to-learn)
