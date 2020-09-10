@@ -19,6 +19,13 @@ You can manage a RESTful API in the fastest, simplest and funniest way! and with
 
 However you can contribute for better performance, the goal is to focus on the code avoiding the configurations and having docker installed.
 
+
+### Github Repository
+---
+- [docker-laravel-api-ev](https://github.com/jfernancordova/docker-laravel-api-dev)
+
+---
+
 ## Prerequisites
 ---
 
@@ -93,12 +100,6 @@ docker-compose -f docker-compose-dev.yml up
 You have a [Travis](https://travis-ci.org/) Pipeline to apply Continous Integration, and other technology to test this environment. You can modify the runtests.sh from the [scripts folder](https://raw.githubusercontent.com/jfernancordova/docker-laravel-api-dev/master/scripts/runtests.sh).
 
 Insert jobs, instructions builds in [this pipeline](https://raw.githubusercontent.com/jfernancordova/docker-laravel-api-dev/master/.travis.yml).
-
----
-
-### Github Repository
----
-- [docker-laravel-api-ev](https://github.com/jfernancordova/docker-laravel-api-dev)
 
 ---
 
