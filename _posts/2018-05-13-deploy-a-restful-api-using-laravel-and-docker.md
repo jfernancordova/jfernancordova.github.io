@@ -35,11 +35,11 @@ However you can contribute for better performance, the goal is to focus on the c
 
 ---
 
-# Environments
-
-## Dev or Local Mode
+## Environments
 ---
 
+### Dev or Local Mode
+---
 - docker-compose-dev.yml: generate automatically folders and require-dev dependencies on your local workspace including Xdebug.
   Note: the yaml file has a key called:"XDEBUG_MODE", this yaml by default has the value true (1) to install it.
 
@@ -47,7 +47,7 @@ You can appreciate the dependencies generated automatically on your workspace!
 
 ---
 
-## Play with Docker Mode
+### Play with Docker Mode
 ---
 
 [![Play With Docker](https://cdn.rawgit.com/play-with-docker/stacks/cff22438/assets/images/button.png)](http://play-with-docker.com?stack=https://raw.githubusercontent.com/jfernancordova/docker-laravel-api-dev/master/docker-compose-pwd.yml)
@@ -62,19 +62,17 @@ normally the process begins in starting mode (health: starting)
 ```
 ---
 
-## Production Mode
+### Production Mode
 ---
 - docker-compose-prod.yml: if you are going to use this yaml, make sure to generate the migrations before!, you can modify the entrypoint to generate them.
 
 ---
 
-# Deployment
-## Docker Environments
+## Deployments
 ---
 Clone this repository and run the following commands based on your orchestrator.
-
-## Swarm Mode
 ---
+### Swarm Mode
 Clone this repository and run the following commands:
 
 ```bash
@@ -83,7 +81,7 @@ docker stack deploy -c docker-compose-dev.yml docker-laravel-api-dev
 # wait for the HEALTHCHECK in healthy mode
 ```
 
-## Docker Compose
+### Docker Compose
 ---
 Clone this repository and run the following commands:
 
@@ -103,11 +101,11 @@ Insert jobs, instructions builds in [this pipeline](https://raw.githubuserconten
 
 ---
 
-### API Boilerplate Reference
+## API Boilerplate Reference
 ---
 - [laravel-api-boilerplate-jwt](https://github.com/francescomalatesta/laravel-api-boilerplate-jwt/blob/master/readme.md)
 
 
-### License
+## License
 ---
 This project is licensed under the MIT License - see the [LICENSE.md](https://github.com/jfernancordova/docker-laravel-api-dev/blob/master/LICENSE.md) file for more details.
