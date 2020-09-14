@@ -2,10 +2,13 @@
 layout: post
 title: Deploy a RESTful API using Laravel and Docker
 tags:
-  - 5 min read
+  - 2 min read
 ---
 
 # Getting Started
+
+> Originally published at [dev.to](https://dev.to/jfernancordova/deploy-a-restful-api-using-laravel-and-docker-31a4) and [Medium](https://medium.com/@jfernancordova/deploy-a-restful-api-using-laravel-and-docker-764e56e0c0c2)
+
 ---
 
 - PHP
@@ -15,9 +18,7 @@ tags:
 - Xdebug
 - Docker
 
-You can manage a RESTful API in the fastest, simplest and funniest way! and with open source code dependencies.
-
-However you can contribute for better performance, the goal is to focus on the code avoiding the configurations and having docker installed.
+You can manage a RESTful API in the fastest, simplest and funniest way! and with open source code dependencies. However you can contribute for better performance, the goal is to focus on the code avoiding the configurations and having docker installed.
 
 
 ### Github Repository
@@ -110,3 +111,5 @@ Insert jobs, instructions builds in [this pipeline](https://raw.githubuserconten
 ## License
 ---
 This project is licensed under the MIT License - see the [LICENSE.md](https://github.com/jfernancordova/docker-laravel-api-dev/blob/master/LICENSE.md) file for more details.
+
+---
