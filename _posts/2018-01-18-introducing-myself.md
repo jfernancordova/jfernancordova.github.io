@@ -29,6 +29,8 @@ This is why I always say to my friends, mates, or any person who wants to learn 
 ---
 
 ## Recommended Reading Lists
+[Goodreads Book List](https://www.goodreads.com/review/list/116582849-jos-fernando-cordova?print=true&ref=nav_mybooks&view=table)
+
 ---
 ### Software Development
 This list is focused on general learning about it. It doesn't matter the programming language!
