@@ -110,4 +110,8 @@ Insert jobs, instructions builds in [this pipeline](https://raw.githubuserconten
 ---
 This project is licensed under the MIT License - see the [LICENSE.md](https://github.com/jfernancordova/docker-laravel-api-dev/blob/master/LICENSE.md) file for more details.
 
+
+## Notes
+---
+
 > Originally published at [dev.to](https://dev.to/jfernancordova/deploy-a-restful-api-using-laravel-and-docker-31a4) and [Medium](https://medium.com/@jfernancordova/deploy-a-restful-api-using-laravel-and-docker-764e56e0c0c2)
