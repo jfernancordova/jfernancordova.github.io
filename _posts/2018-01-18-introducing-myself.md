@@ -29,11 +29,10 @@ This is why I always say to my friends, mates, or any person who wants to learn 
 ---
 
 ## Recommended Reading Lists
-[Goodreads Book List](https://www.goodreads.com/review/list/116582849-jos-fernando-cordova?print=true&ref=nav_mybooks&view=table)
+[My Goodreads Reading List](https://www.goodreads.com/review/list/116582849-jos-fernando-cordova?print=true&ref=nav_mybooks&view=table)
 
 ---
 ### Software Development
-This list is focused on general learning about it. It doesn't matter the programming language!
 - [The Pragmatic Programmer: From Journeyman to Master](https://www.amazon.com/Pragmatic-Programmer-Journeyman-Master/dp/020161622X)
 - [The Clean Coder: A Code of Conduct for Professional Programmers](https://www.amazon.com/Clean-Coder-Conduct-Professional-Programmers/dp/0137081073)
 - [Object-Oriented Analysis and Design with Applications](https://www.amazon.com/Object-Oriented-Analysis-Design-Applications-3rd/dp/020189551X)
