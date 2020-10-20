@@ -85,7 +85,7 @@
 - title: "kit Starter Symfony 4 Docker"
   url: "https://github.com/romaricp/kit-starter-symfony-4-docker/"
   prs: [9]
-  language: "PHP, Docker"
+  language: "PHP, Dockerfile"
   icon: github
 
 - title: "Xubuntu"
