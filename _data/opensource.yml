@@ -1,3 +1,59 @@
+- title: "laminas-validator"
+  url: "https://github.com/laminas/laminas-validator/"
+  issues: [74]
+  prs: [75]
+  language: "PHP"
+  icon: github
+
+- title: "Phpsu: Synchronisation Utility: File and Database"
+  url: "https://github.com/phpsu/phpsu/"
+  issues: [162]
+  prs: [167]
+  language: "PHP"
+  icon: github
+
+- title: "Mage2Docker"
+  url: "https://github.com/graycoreio/mage2docker/"
+  issues: [11]
+  prs: [12]
+  language: "Dockerfile"
+  icon: github
+
+- title: "Silkroad Laravel"
+  url: "https://github.com/Devsome/silkroad-laravel/"
+  issues: [15]
+  prs: [73]
+  language: "PHP"
+  icon: github
+
+- title: "Laravel integration with Fatture in Cloud"
+  url: "https://github.com/offline-agency/laravel-fatture-in-cloud/"
+  issues: [25]
+  prs: [26]
+  language: "PHP"
+  icon: github
+
+- title: "Carbon.sh CLI"
+  url: "https://github.com/CapitanFindusFI/carbonsh-cli/"
+  issues: [1]
+  prs: [3]
+  language: "JavaScript"
+  icon: github
+
+- title: "FonteSolutions"
+  url: "https://github.com/fontenele/php/"
+  issues: [10]
+  prs: [11]
+  language: "Dockerfile"
+  icon: github
+
+- title: "GitHub"
+  url: "https://github.com/fontenele/php/"
+  issues: [10]
+  prs: [11]
+  language: "Dockerfile"
+  icon: github
+
 - title: "GitHub"
   url: "https://github.com/github/opensource.guide/"
   issues: []
