@@ -27,14 +27,14 @@ I don't comment any class, interface, methods, or attributes. If the object has 
 ---
 For me, experience is essential at all. I have learned a lot from the Code Review, and  I can say that it's the best way to understand the different perspectives of other developers.
 To follow best practice and less code smell, I Follow these rules or principles that learned from [my recommendation list](https://jfernancordova.github.io/introducing-myself.html#software-development) and review of other devs:
-* Composition over inheritance
-* Tell Don't Ask
-* Law Of Demeter
-* Avoid Anemic domain objects (anti-pattern)
-* SOLID
-* Avoid Big Ball of Mud
-* Avoid Train Wreck (anti-pattern)
-* Rule of thumb 
+* [Composition over inheritance](https://en.wikipedia.org/wiki/Composition_over_inheritance)
+* [Tell Don't Ask](https://martinfowler.com/bliki/TellDontAsk.html)
+* [Law Of Demeter](https://en.wikipedia.org/wiki/Law_of_Demeter)
+* [Avoid Anemic domain objects](https://www.martinfowler.com/bliki/AnemicDomainModel.html) (anti-pattern)
+* [SOLID](https://dev.to/trekhleb/s-o-l-i-d-principles-around-you-1o17)
+* [Avoid Big Ball of Mud](https://thedomaindrivendesign.io/big-ball-of-mud/)
+* [Avoid Train Wreck](https://wiki.c2.com/?TrainWreck) (anti-pattern)
+* [Rule of thumb ](https://en.wikipedia.org/wiki/Rule_of_thumb)
 
 There are a lot of principles or rules to design well code and avoid code smells. The secret for me, it's simplicity, I know that it's not easy, but the practice, it becomes easier.
 
