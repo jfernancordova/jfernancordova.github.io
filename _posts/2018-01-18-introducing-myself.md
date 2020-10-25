@@ -9,7 +9,7 @@ tags:
 ---
 
 <div style="text-align: justify">
-Hi!, I'm José Fernando, a Web Developer focused on Backend Development and an IT student originally from Venezuela and currently living in Argentina.
+Hi! I'm José Fernando, a Backend Developer and an IT student originally from Venezuela and currently living in Argentina.
 <br>
 I'm passionate about PHP, Golang, Docker, and Linux. I would like to say that I was a geek all my life, but I wasn't.
 <br>
