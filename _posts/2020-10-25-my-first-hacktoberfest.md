@@ -22,7 +22,7 @@ This is my first hacktoberfest, it was amazing, I'm glad to join to this great c
 
 ## What I Learned From Hacktoberfest
 
-* I Did not feel intimidated: thanks to this challenge I could to know, explore and help other developers.
+* I did not feel intimidated. Thanks to this challenge I could know, explore, and help other developers.
 * Maintainers are friends, they suggested and advised my PRs.
 * Open Source is wonderful.
 
