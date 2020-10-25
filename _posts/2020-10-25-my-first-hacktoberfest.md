@@ -33,3 +33,8 @@ This is my first hacktoberfest, it was amazing, I'm glad to join to this great c
   width: 100%;
   height: 10%;"
 />
+
+## Notes
+---
+
+> Originally published at [dev.to](https://dev.to/jfernancordova/my-first-hacktoberfest-experience-37ik)
