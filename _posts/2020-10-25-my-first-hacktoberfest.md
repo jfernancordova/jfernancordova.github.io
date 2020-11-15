@@ -17,7 +17,7 @@ This is my first hacktoberfest, it was amazing, I'm glad to join to this great c
 * [Laravel integration with Fatture in Cloud](https://github.com/offline-agency/laravel-fatture-in-cloud/pull/26)
 * [Mage2Docker](https://github.com/graycoreio/mage2docker/pull/12)
 * [Phpsu: Synchronisation Utility: File and Database](https://github.com/phpsu/phpsu/pull/167)
-* [FonteSolutions | nginx + phpfpm docker image](https://github.com/fontenele/php/pull/11)
+* [FonteSolutions](https://github.com/fontenele/php/pull/11)
 
 ---
 
