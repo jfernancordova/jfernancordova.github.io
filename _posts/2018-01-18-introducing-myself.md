@@ -20,7 +20,7 @@ This is why I always say to my friends, mates, or any person who wants to learn 
 
 ## I have a few hobbies
 ---
-- I like to play Tables Tennis, watch documentaries, series or movies with my girlfriend and sometimes go out with my friends.
+- I like to play Tables Tennis, watch documentaries, series or movies and sometimes go out with my friends.
 
 - I like to study, research, and read about software development all the time.
 
