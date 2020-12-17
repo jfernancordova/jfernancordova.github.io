@@ -35,6 +35,12 @@ To follow best practice and less code smell, I Follow these rules or principles 
 * [Avoid Big Ball of Mud](https://thedomaindrivendesign.io/big-ball-of-mud/)
 * [Avoid Train Wreck](https://wiki.c2.com/?TrainWreck) (anti-pattern)
 * [Rule of thumb ](https://en.wikipedia.org/wiki/Rule_of_thumb)
+* [Command (write) – Query (read) separation (CQS)](https://martinfowler.com/bliki/CommandQuerySeparation.html)
+* Replace primitives with objects.
+* Value objects and DTOs are wrappers for primitive-type values.
+* Value objects are immutables and give meaning and useful behavior.
+* Services are immutables and Entities are mutables.
+* Mark methods and properties private by default.
 
 There are a lot of principles or rules to design well code and avoid code smells. The secret for me, it's simplicity, I know that it's not easy, but the practice, it becomes easier.
 
