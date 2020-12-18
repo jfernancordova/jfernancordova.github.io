@@ -36,6 +36,7 @@ To follow best practice and less code smell, I Follow these rules or principles 
 * [Avoid Train Wreck](https://wiki.c2.com/?TrainWreck) (anti-pattern)
 * [Rule of thumb ](https://en.wikipedia.org/wiki/Rule_of_thumb)
 * [Command (write) – Query (read) separation (CQS)](https://martinfowler.com/bliki/CommandQuerySeparation.html)
+* [Kent Becks four rules of Simple Design](https://martinfowler.com/bliki/BeckDesignRules.html)
 * Replace primitives with objects.
 * Value objects and DTOs are wrappers for primitive-type values.
 * Value objects are immutables and give meaning and useful behavior.
