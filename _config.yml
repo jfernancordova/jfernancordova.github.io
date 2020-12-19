@@ -1,4 +1,3 @@
-# top level stuff you probably don't need to touch
 highlighter: rouge
 markdown: kramdown
 rdiscount:
@@ -8,8 +7,6 @@ paginate: 5
 plugins: [jekyll-paginate]
 port: 3000
 safe: true
-
-# edit here to achieve your personal greatness
 url: https://jfernancordova.github.io
 baseurl: /
 title: José Fernando Cordova
@@ -20,9 +17,5 @@ email: jfernancordova@gmail.com
 github: jfernancordova
 linkedin: jfernancordova
 twitter: jfernancordova
-#stackoverflow: username #e.g: users/2735833/proton1h1
-#Comment out if you don't want disqus
 disqus: jfernancordova
 google_analytics: UA-69391421-1
-# needed for travis-ci build
-#exclude: [vendor]
