@@ -23,16 +23,18 @@ As a Backend Developer, I realized the design of a web API is the most important
 * Where do the inputs come from?
 * How are the outputs used?
 
-#### How can I visualize these questions in a friendly way?
+---
 
+#### How can I visualize these questions in a friendly way?
 * API goals canvas
-* Uses Cases
-* Sequences Diagrams
+* Use Cases
+
+---
 
 #### Basic principles
-
 * Goals mean resources and actions pairs. 
 * Resources are represented by paths, and actions are represented by HTTP methods.
 * A REST API represents its goals through actions on resources.
+* Resources' adopted format is /{plural collection’s name}/{item id}
 
 
