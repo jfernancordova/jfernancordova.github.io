@@ -26,15 +26,32 @@ As a Backend Developer, I realized the design of a web API is the most important
 ---
 
 #### How can I visualize these questions in a friendly way?
-* API goals canvas
-* Use Cases
+* API goals canvas.
+* Use Cases.
 
 ---
 
 #### Basic principles
-* Goals mean resources and actions pairs. 
-* Resources are represented by paths, and actions are represented by HTTP methods.
-* A REST API represents its goals through actions on resources.
-* Resources' adopted format is /{plural collection’s name}/{item id}
+* Goals mean resources and actions pairs.
+* A REST API represents its goals with actions (HTTP methods) on resources (paths | user-friendly).
+* Resources' adopted format is /{plural collection’s name}/{item id}.
+* The aim of the REST architectural style is to facilitate building distributed systems that are efficient, scalable, and reliable.
+
+#### HTTP Methods
+* PATCH can be used to update a resource (request’s body).
+* PUT can be used to replace an existing resource or to create a nonexisting one (the created resource should be returned).
+* POST can be used to create a nonexisting resource in the request’s body (it does not return information).
+
+#### Constraints for APIs RESTful
+* Client/server separation (consumers/providers)
+* Statelessness
+* Cacheability
+* Layered systems
+* Code on demand (A server can transfer executable code to the client)
+* Uniform interface (the concept of identified resources)
+
+#### The OpenAPI Specifcation (OAS)
+
+
 
 
