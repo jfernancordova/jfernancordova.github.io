@@ -13,7 +13,7 @@ As a Backend Developer, I realized the design of a web API is the most important
 ## Fundamentals
 ---
 
-An API must be designed from its consumer’s perspective and not its provider’s
+#### An API must be designed from its consumer’s perspective and not its provider’s
 
 * Who are the users?
 * What can they do?
@@ -23,16 +23,16 @@ An API must be designed from its consumer’s perspective and not its provider�
 * Where do the inputs come from?
 * How are the outputs used?
 
-How can I visualize these questions in a friendly way?
+#### How can I visualize these questions in a friendly way?
 
 * API goals canvas
 * Uses Cases
 * Sequences Diagrams
 
-### Basic principles
+#### Basic principles
 
 * Goals mean resources and actions pairs. 
 * Resources are represented by paths, and actions are represented by HTTP methods.
 * A REST API represents its goals through actions on resources.
-* 
+
 
