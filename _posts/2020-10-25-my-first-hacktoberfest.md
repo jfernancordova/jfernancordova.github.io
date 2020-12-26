@@ -6,11 +6,12 @@ tags:
 ---
 
 ## My Hacktoberfest Experience
+---
 
 This is my first hacktoberfest, it was amazing, I'm glad to join to this great community and challenge. 
 
-### My constributions
-
+### Contributions
+---
 * [Carbon.sh CLI](https://github.com/CapitanFindusFI/carbonsh-cli/pull/3)
 * [laminas-validator](https://github.com/laminas/laminas-validator/pull/75)
 * [Silkroad Laravel](https://github.com/Devsome/silkroad-laravel/pull/73)
@@ -19,10 +20,8 @@ This is my first hacktoberfest, it was amazing, I'm glad to join to this great c
 * [Phpsu: Synchronisation Utility: File and Database](https://github.com/phpsu/phpsu/pull/167)
 * [FonteSolutions](https://github.com/fontenele/php/pull/11)
 
----
-
 ## What I Learned From Hacktoberfest
-
+---
 * I did not feel intimidated. Thanks to this challenge I could know, explore, and help other developers.
 * Maintainers are friends, they suggested and advised my PRs.
 * Open Source is wonderful.
