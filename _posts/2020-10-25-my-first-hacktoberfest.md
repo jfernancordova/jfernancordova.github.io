@@ -10,6 +10,8 @@ tags:
 
 This is my first hacktoberfest, it was amazing, I'm glad to join to this great community and challenge. 
 
+---
+
 ### Contributions
 ---
 * [Carbon.sh CLI](https://github.com/CapitanFindusFI/carbonsh-cli/pull/3)
@@ -19,6 +21,8 @@ This is my first hacktoberfest, it was amazing, I'm glad to join to this great c
 * [Mage2Docker](https://github.com/graycoreio/mage2docker/pull/12)
 * [Phpsu: Synchronisation Utility: File and Database](https://github.com/phpsu/phpsu/pull/167)
 * [FonteSolutions](https://github.com/fontenele/php/pull/11)
+
+---
 
 ## What I Learned From Hacktoberfest
 ---
@@ -33,6 +37,8 @@ This is my first hacktoberfest, it was amazing, I'm glad to join to this great c
   width: 100%;
   height: 10%;"
 />
+
+---
 
 ## Notes
 ---
