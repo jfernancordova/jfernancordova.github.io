@@ -8,8 +8,8 @@ tags:
 ## Introduction
 ---
 
-The design of an API is essential, so I read 2 great books where explain concepts, fundamentals, and standards to 
-create efficient APIs easy to use and easy to understand, this is my summary about them!
+I finished reading two great books where explain everything about APIs (concepts, rules, fundamentals, standards, 
+and so on). The main goal is creating APIs easy to use, easy to understand making them simple and predictable!
 
 ---
 
