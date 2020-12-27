@@ -8,12 +8,13 @@ tags:
 ## Introduction
 ---
 
-The design of an API is essential, so I read two great books where explain concepts, fundamentals, and standards to 
+The design of an API is essential, so I read 2 great books where explain concepts, fundamentals, and standards to 
 create efficient APIs easy to use and easy to understand, this is my summary about them!
 
 ---
 
-### <em> An API must be designed from its consumer’s perspective and not its provider’s </em>
+### An API must be designed from its consumer’s perspective and not its provider’s
+---
 * Who are the users?
 * What can they do?
 * How do they do it?
@@ -24,14 +25,16 @@ create efficient APIs easy to use and easy to understand, this is my summary abo
 
 ---
 
-### <em> How can I visualize these questions in a friendly way? </em>
+### How can I visualize these questions in a friendly way?
+---
 * API goals canvas.
 * [Use Cases](https://en.wikipedia.org/wiki/Use_case)
 * [UML diagrams](https://www.uml-diagrams.org/)
 
 ---
 
-### <em> Basic principles </em>
+### Basic principles
+---
 * Goals mean resources (user-friendly) and actions pairs.
 * A REST API represents its goals with actions (HTTP methods) on resources (paths).
 * Resources' adopted format is /{plural collection’s name}/{item id}.
@@ -43,7 +46,8 @@ create efficient APIs easy to use and easy to understand, this is my summary abo
 
 ---
 
-### <em> HTTP Methods </em>
+### HTTP Methods
+---
 * PATCH can be used to update a resource (request’s body).
 * PUT can be used to replace an existing resource or to create a nonexisting one (the created resource should be returned).
 * POST can be used to create a nonexisting resource in the request’s body (it does not return information).
@@ -51,7 +55,8 @@ create efficient APIs easy to use and easy to understand, this is my summary abo
 
 ---
 
-### <em> Constraints for APIs RESTful </em>
+### Constraints for APIs RESTful
+---
 * Client/server separation (consumers/providers)
 * Statelessness
 * Cacheability
@@ -61,7 +66,8 @@ create efficient APIs easy to use and easy to understand, this is my summary abo
 
 ---
 
-### <em> API description formats </em>
+### API description formats
+---
 It is a data format whose purpose is to describe an API.
 * [The OpenAPI Specification (OAS) + Swagger Specification](https://swagger.io/specification/)
 * [JSON Schema specification](https://json-schema.org/specification.html)
@@ -69,13 +75,15 @@ It is a data format whose purpose is to describe an API.
 
 ---
 
-### <em> Data serialization format </em>
+### Data serialization format
+---
 * [YAML (human-friendly)](https://yaml.org/)
 * [JSON](https://www.json.org/json-en.html)
 
 ---
 
-### <em> Simple Rules </em>
+### Simple Rules
+---
 * Ensure that each goal provides a straightforward interaction.
 * Ensure that outputs and inputs are consistent between goal calls.
 * When possible, prevent errors by adding data to existing goals to create new goals.
@@ -89,7 +97,8 @@ It is a data format whose purpose is to describe an API.
 
 ---
 
-### <em> Designing APIs requires to </em>
+### Designing APIs requires to
+---
 * Fully observe the context in which these will be consumed and provided in order to ensure that these fulfill all consumers' needs in the best possible way.
 * Be aware of the consumers' contexts, including their network environments, habits, and limitations.
 * Carefully consider the provider’s limitations, and to solve problems without impacting the design and adapting the design.
@@ -97,7 +106,8 @@ It is a data format whose purpose is to describe an API.
 
 ---
 
-### <em> Consistency </em>
+###  Consistency
+---
 * Great way of being predictable within an API.
 * Across an organization/company/team’s APIs.
 * With the domain(s) of an API.
@@ -107,7 +117,8 @@ It is a data format whose purpose is to describe an API.
 
 ---
 
-### <em> Documentation </em>
+### Documentation
+---
 The best-known API documentation is the reference documentation that describes the interface contract of the API. It lists the available goals and describes their inputs and outputs.
 The API lifecycle Growing APIs requires that we know the API lifecycle and understand that it runs in parallel with others.
 * [ReDoc](https://redocly.github.io/redoc/)
@@ -115,14 +126,15 @@ The API lifecycle Growing APIs requires that we know the API lifecycle and under
 
 ---
 
-### <em> Web Concepts </em>
+### Web Concepts
+---
 Designing APIs and building API design guidelines requires a solid understanding of web concepts like HTTP headers and status codes.
 * [Web Concepts website](http://webconcepts.info/)
 * [The API Stylebook](http://apistylebook.com)
 
 ---
 
-## API Styles
+### API Styles
 ---
 * [REST or Restful - Architecture Style](https://restfulapi.net/)
 * [gRPC - Open Source remote procedure call and exposes functions](https://grpc.io/docs/languages/csharp/quickstart/)
@@ -130,7 +142,7 @@ Designing APIs and building API design guidelines requires a solid understanding
 
 ---
 
-## Bibliography
+### Bibliography
 ---
 * [Build APIs You Won't Hate](https://apisyouwonthate.com/books/build-apis-you-wont-hate) by [Phil Sturgeon](https://phil.tech/about)
 * [The Design of Web APIs](https://www.manning.com/books/the-design-of-web-apis) by [Arnaud Lauret](http://apihandyman.io/about/)
