@@ -2,14 +2,14 @@
 layout: post
 title: What I've learned about the design of web APIs
 tags:
- - 3 min read
+ - 5 min read
 ---
 
 ## Introduction
 ---
 
 I finished reading two great books where explain everything about APIs (concepts, rules, fundamentals, standards, 
-and so on). The main goal is creating APIs easy to use, easy to understand making them simple and predictable!
+and so on). The main goal is creating APIs easy to use and easy to understand making them simple and predictable!
 
 ---
 
@@ -36,8 +36,9 @@ and so on). The main goal is creating APIs easy to use, easy to understand makin
 ### Basic principles
 ---
 * Goals mean resources (user-friendly) and actions pairs.
-* A REST API represents its goals with actions (HTTP methods) on resources (paths).
+* A REST API represents its goals with actions (Verbs HTTP methods) on resources (Things - paths).
 * Resources' adopted format is /{plural collection’s name}/{item id}.
+* Sub-resources can be methods, for example: profile and settings are a subresource of users.
 * The aim of the REST architectural style is to facilitate building distributed systems that are efficient, scalable, and reliable.
 * Choosing the right granularity for the goals.
 * Extensibility is a software engineering and systems design principle where the implementation takes future growth into consideration.
@@ -48,9 +49,10 @@ and so on). The main goal is creating APIs easy to use, easy to understand makin
 
 ### HTTP Methods
 ---
+* GET just contains query string content regardless of the HTTP method.
 * PATCH can be used to update a resource (request’s body).
-* PUT can be used to replace an existing resource or to create a nonexisting one (the created resource should be returned).
-* POST can be used to create a nonexisting resource in the request’s body (it does not return information).
+* PUT (idempotent) can be used to replace an existing resource or to create a nonexisting one (the created resource should be returned).
+* POST (not idempotent) can be used to create a nonexisting resource in the request’s body (it does not return information).
 * DELETE can be used on a resource to delete, undo, or cancel the concept represented by a URL.
 
 ---
@@ -114,6 +116,14 @@ It is a data format whose purpose is to describe an API.
 * With the rest of the world.
 * With rules in a document called the “API Design Guidelines” or “API Design Style Guide.”
 * With appropriate level of granularity for versioning.
+
+---
+
+### Tests
+---
+* Features are a way to group various tests together.
+* Each RESTful resource needs at least one feature.
+* One scenario for each action (has an endpoint).
 
 ---
 
