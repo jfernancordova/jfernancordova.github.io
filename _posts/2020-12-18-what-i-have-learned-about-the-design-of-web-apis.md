@@ -2,7 +2,7 @@
 layout: post
 title: What I've learned about the design of web APIs
 tags:
- - 5 min read
+ - 10 min read
 ---
 
 ## Introduction
@@ -38,12 +38,16 @@ and so on). The main goal is creating APIs easy to use and easy to understand ma
 * Goals mean resources (user-friendly) and actions pairs.
 * A REST API represents its goals with actions (Verbs HTTP methods) on resources (Things - paths).
 * Resources' adopted format is /{plural collection’s name}/{item id}.
+* Evolvability is that a resource is meant to be more like a permalink. This permalink (the URL) should never change.
 * Sub-resources can be methods, for example: profile and settings are a subresource of users.
 * The aim of the REST architectural style is to facilitate building distributed systems that are efficient, scalable, and reliable.
 * Choosing the right granularity for the goals.
 * Extensibility is a software engineering and systems design principle where the implementation takes future growth into consideration.
 * An API evolution must be carefully designed in order to avoid breaking changes.
 * APIs have to be reviewed (validated, analyzed, scrutinized, checked, tested, and so on).
+* [Richardson Maturity Model](https://martinfowler.com/articles/richardsonMaturityModel.html)
+* URI (Universal Resource Indicator) only content after the protocol, hostname and port (the path, extension and query string).
+* <cite> Without hypermedia controls an API is not RESTful. [Roy Fielding](https://en.wikipedia.org/wiki/Roy_Fielding)</cite>
 
 ---
 
@@ -119,6 +123,14 @@ It is a data format whose purpose is to describe an API.
 
 ---
 
+### Authentication
+---
+* [HTTP Basic authentication (BA)](https://oauth.net/2/)
+* [Digest access authentication](https://en.wikipedia.org/wiki/Digest_access_authentication)
+* [OAuth 2.0](https://oauth.net/2/)
+
+---
+
 ### Tests
 ---
 * Features are a way to group various tests together.
@@ -133,6 +145,7 @@ The best-known API documentation is the reference documentation that describes t
 The API lifecycle Growing APIs requires that we know the API lifecycle and understand that it runs in parallel with others.
 * [ReDoc](https://redocly.github.io/redoc/)
 * [PlantUML](https://plantuml.com/)
+* [API Blueprint](https://apiblueprint.org/)
 
 ---
 
@@ -144,11 +157,39 @@ Designing APIs and building API design guidelines requires a solid understanding
 
 ---
 
+### Versioning
+---
+
+* Approach #1: URI Throwing a version number in the URI (not evolvability).
+* Approach #2: Hostname.
+* Approach #3: Body and Query Params.
+* Approach #4: Custom Request Header.
+* Approach #5: Content Negotiation.
+* Approach #6: Content Negotiation for Resources (the best approach).
+
+---
+
+### Standards
+---
+* [RFC](https://en.wikipedia.org/wiki/Request_for_Comments)
+* [ISO](https://www.iso.org/home.html)
+
+---
+
 ### API Styles
 ---
 * [REST or Restful - Architecture Style](https://restfulapi.net/)
 * [gRPC - Open Source remote procedure call and exposes functions](https://grpc.io/docs/languages/csharp/quickstart/)
 * [GraphQL - Allowing consumers to retrieve exactly the data they want](https://graphql.org/)
+
+---
+
+### [HATEOAS](https://en.wikipedia.org/wiki/HATEOAS)
+---
+It stands for Hypermedia as the Engine of Application State.
+
+* [Content negotiation](https://developer.mozilla.org/en-US/docs/Web/HTTP/Content_negotiation) Handle content negotiation with file extensions.
+* [Hypermedia controls (hyperlinks)](https://sites.google.com/site/restframework/hypermedia-controls) They are links to other content, relationships, and further actions.
 
 ---
 
