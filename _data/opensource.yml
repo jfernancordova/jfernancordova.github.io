@@ -48,13 +48,6 @@
   icon: github
 
 - title: "GitHub"
-  url: "https://github.com/fontenele/php/"
-  issues: [10]
-  prs: [11]
-  language: "Dockerfile"
-  icon: github
-
-- title: "GitHub"
   url: "https://github.com/github/opensource.guide/"
   issues: []
   prs: [1670]
