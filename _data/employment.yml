@@ -5,9 +5,10 @@
   points:
     - Developed RESTful APIs to support core product features.
     - Created a Dockerized development environment.
-    - Designed APIs and Microservices using Domain-Driven Design and TDD.
+    - Designed APIs and Microservices using TDD.
   tech:
     - Symfony PHP Framework
+    - Python
     - Docker
     - MySQL
     - SonarQube
@@ -58,5 +59,7 @@
     - Worked in the infrastructure and networking department.
   tech:
     - JavaScript
+    - jQuery
+    - AJAX
     - HTML
     - CSS
