@@ -54,40 +54,11 @@
   language: "JavaScript"
   icon: github
 
-- title: "Symfony"
-  url: "https://github.com/symfony/symfony-docs/"
-  issues: []
-  prs: [13852]
-  language: "PHP"
-  icon: github
-
-- title: "Docker"
-  url: "https://github.com/docker/docker.github.io/"
-  issues: []
-  prs: [10997]
-  language: "HTML"
-  icon: github
-
-- title: "Kubernetes"
-  url: "https://github.com/kubernetes/website/"
-  issues: []
-  prs: [21831, 21744, 21745, 21754]
-  language: "HTML"
-  icon: github
-
 - title: "kit Starter Symfony 4 Docker"
   url: "https://github.com/romaricp/kit-starter-symfony-4-docker/"
   prs: [9]
   language: "PHP, Dockerfile"
   icon: github
-
-- title: "Xubuntu"
-  url: "https://www.transifex.com/user/profile/jfernancordova/"
-  issues: []
-  prs: []
-  language: "Translation"
-  comment: "Spanish Translator"
-  icon: globe
 
 - title: "Gitlab"
   url: "https://crowdin.com/profile/jfernancordova"
