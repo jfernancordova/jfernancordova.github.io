@@ -1,11 +1,22 @@
-- title: "Backend Developer"
+- title: "Senior Backend Developer, Core Platform"
   company: "GeoPagos"
   link: "https://www.geopagos.com/"
-  dates: "2019 - Present"
+  dates: "2020 - Present"
+  tech:
+    - Symfony PHP Framework
+    - Python
+    - Docker
+    - MySQL
+    - SonarQube
+   
+- title: "Backend Developer, Delivery"
+  company: "GeoPagos"
+  link: "https://www.geopagos.com/"
+  dates: "2019 - 2020"
   points:
     - Developed RESTful APIs to support core product features.
     - Created a Dockerized development environment.
-    - Designed APIs and Microservices using TDD.
+    - Managed a team as Technical Reference.
   tech:
     - Symfony PHP Framework
     - Python
