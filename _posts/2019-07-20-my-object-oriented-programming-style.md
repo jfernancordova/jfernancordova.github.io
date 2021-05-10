@@ -33,6 +33,7 @@ I don't comment any class, interface, methods, or attributes. If the object has 
 ---
 For me, experience is essential at all. I have learned a lot from the Code Review, and  I can say that it's the best way to understand the different perspectives of other developers.
 I always try to follow these rules/principles when I start coding
+* [Separation of Concerns (SoC)](https://en.wikipedia.org/wiki/Separation_of_concerns)
 * [Composition over inheritance](https://en.wikipedia.org/wiki/Composition_over_inheritance)
 * [Tell Don't Ask](https://martinfowler.com/bliki/TellDontAsk.html)
 * [Law Of Demeter](https://en.wikipedia.org/wiki/Law_of_Demeter)
