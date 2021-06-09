@@ -6,7 +6,7 @@ body {
   background-color: #fff;
   font-family: "Source Sans Pro", sans-serif;
   /* The html and body elements cannot have any padding or margin. */
-  border-top: 3px solid #27a822;
+  border-top: 3px solid #1B66C9;
 }
 
 /* Wrapper for page content to push down footer */
@@ -127,7 +127,7 @@ body {
   margin: 20px 0;
 }
 .container a {
-  color: #27a822;
+  color: #1B66C9;
 }
 .container a:hover {
   color: #267723;
@@ -152,7 +152,7 @@ body {
 }
 .panel-default h4 a,
 h5 a {
-  color: #27a822;
+  color: #1B66C9;
 }
 .panel-default h4 a:hover,
 h5 a:hover {
@@ -236,7 +236,7 @@ h5 a:hover {
 }
 
 .project .title {
-  color: #27a822;
+  color: #1B66C9;
   font-weight: 500;
 }
 
@@ -284,7 +284,7 @@ h5 a:hover {
   color: #6b6b6b;
 }
 div.footer {
-  border-bottom: 5px solid #27a822;
+  border-bottom: 5px solid #1B66C9;
 }
 /* Set the fixed height of the footer here */
 /*.footer {
