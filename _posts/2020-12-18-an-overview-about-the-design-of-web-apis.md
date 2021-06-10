@@ -1,6 +1,6 @@
 ---
 layout: post
-title: What I've learned about the design of web APIs
+title: An overview about the design of web APIs
 tags:
  - 10 min read
 ---
