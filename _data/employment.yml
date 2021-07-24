@@ -6,10 +6,8 @@
     - Developed and designed multiple core-platform features.
     - Designed and implemented class diagrams to reduce couplings and bloaters.
     - Refactored codebase to reduce bugs and making it reusable.
-    - Collaborated and supported the technical team through a variety of challenges.
   tech:
-  - Symfony PHP Framework
-  - Python
+  - Spring Boot Java Framework
   - Docker
   - MySQL
   - SonarQube
@@ -23,6 +21,7 @@
     - Developed RESTful APIs to support core product features.
     - Created a Dockerized development environment.
     - Managed a team as Technical Reference.
+    - Collaborated and supported the technical team through a variety of challenges.
   tech:
     - Symfony PHP Framework
     - API Platform
