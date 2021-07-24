@@ -9,7 +9,7 @@
   tech:
   - Spring Boot Java Framework
   - Docker
-  - MySQL
+  - MongoDB
   - SonarQube
   - Gitlab
    
