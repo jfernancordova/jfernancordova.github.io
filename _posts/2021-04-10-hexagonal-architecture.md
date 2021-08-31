@@ -52,15 +52,6 @@ namespace HexagonalArchitecture\Products\Domain;
 
 final class Product
 {
-    /** @var string */
-    private $id;
-
-    /** @var string */
-    private $name;
-
-    /** @var string */
-    private $description;
-
     public function __construct(
         private string $id, 
         private string $name, 
@@ -175,15 +166,6 @@ namespace HexagonalArchitecture\Products\Application;
 
 final class ProductResponse
 {
-    /** @var string */
-    private $id;
-
-    /** @var string */
-    private $name;
-
-    /** @var string */
-    private $description;
-
     public function __construct(
         private string $id, 
         private string $name, 
