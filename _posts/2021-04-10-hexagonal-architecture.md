@@ -335,3 +335,8 @@ HexagonalArchitecture
     │   MySqlProductRepository.php
 
 ```
+
+## Bibliography
+---
+- [Domain-Driven Design in PHP](https://www.amazon.com/Domain-Driven-Design-PHP-Carlos-Buenosvinos/dp/1787284948)
+- [Introducción Arquitectura Hexagonal – DDD](https://codely.tv/blog/screencasts/arquitectura-hexagonal-ddd/)
