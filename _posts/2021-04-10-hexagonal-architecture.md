@@ -148,7 +148,7 @@ final class ProductCreator
 
     public function create(string $id, string $name, string $description): void
     {
-        $this->repository->save(new Product($id, $name, $duration));
+        $this->repository->save(new Product($id, $name, $description));
     }
 }
 ```
@@ -167,9 +167,6 @@ final class ProductResponse
         private string $name, 
         private string $description)
     {
-        $this->id = $id;
-        $this->name = $name;
-        $this->description = $description;
     }
 
     public function id(): string
@@ -184,7 +181,7 @@ final class ProductResponse
 
     public function description(): string
     {
-        return $this->duration;
+        return $this->description;
     }
 }
 ```
