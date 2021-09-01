@@ -57,9 +57,6 @@ final class Product
         private string $name, 
         private string $description)
     {
-        $this->id = $id;
-        $this->name = $name;
-        $this->description = $description;
     }
 
     public static function fromPrimitives(array $primitives): Product
