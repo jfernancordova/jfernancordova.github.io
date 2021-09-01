@@ -88,7 +88,7 @@ final class Product
 
     public function description(): string
     {
-        return $this->duration;
+        return $this->description;
     }
 }
 ```
