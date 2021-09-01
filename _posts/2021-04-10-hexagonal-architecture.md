@@ -142,12 +142,8 @@ use HexagonalArchitecture\Products\Domain\ProductRepository;
 
 final class ProductCreator
 {
-    /** @var ProductRepository */
-    private $repository;
-
     public function __construct(private ProductRepository $repository)
     {
-        $this->repository = $repository;
     }
 
     public function create(string $id, string $name, string $description): void
