@@ -1,14 +1,14 @@
 ---
 layout: post
-title: My First Hacktoberfest
+title: First Hacktoberfest
 tags:
  - 1 min read
 ---
 
-## My Hacktoberfest Experience
+## Experience
 ---
 
-This is my first hacktoberfest, it was amazing, I'm glad to join to this great community and challenge. 
+I participated for the first time and, I could say, **it was amazing**.  I'm so happy to contribute to this great community and help to solve challenges. 
 
 ---
 
@@ -24,11 +24,10 @@ This is my first hacktoberfest, it was amazing, I'm glad to join to this great c
 
 ---
 
-## What I Learned From Hacktoberfest
+## What I Learned
 ---
-* I did not feel intimidated. Thanks to this challenge I could know, explore, and help other developers.
-* Maintainers are friends, they suggested and advised my PRs.
-* Open Source is wonderful.
+* I did not feel intimidated. Thanks to these challenges I could know, explore, and help other developers.
+* Maintainers are friend. They suggested and advised my PRs.
 
 <img src="../assets/images/hacktoberfest.png" alt="Hacktoberfest" style="
   display: block;

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: My Object-Oriented Programming Style
+title: Object-Oriented Programming Style
 tags:
   - 3 min read
 ---
@@ -67,3 +67,9 @@ Design Pattern can be a solution for complex features, frameworks, or scalable A
 * Do I need multiple instances with reusable behavior? I apply a simple factory.
 * If a simple factory doesn't work because of complexity, then I apply the Factory Method.
 * Don't I need multiple instances? I read what is the most convenient design pattern for my feature or implementation.
+
+---
+## Bibliography
+---
+- [Object design style](https://livebook.manning.com/book/object-design-style-guide/about-this-book)
+- [Object-Oriented Analysis and Design with Applications](https://www.amazon.com/Object-Oriented-Analysis-Design-Applications-3rd/dp/020189551X)
