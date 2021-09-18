@@ -1,4 +1,4 @@
-- title: "Spring Boot API Boilerplate Dockerized"
+- title: "Docker Spring Boot API Development"
   url: "https://github.com/jfernancordova/docker-spring-boot-api-dev"
   comment: "The containerized Spring Boot API."
   language: "Java, Docker"
