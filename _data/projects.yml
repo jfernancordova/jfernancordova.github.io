@@ -1,6 +1,11 @@
+- title: "Spring Boot API Boilerplate Dockerized"
+  url: "https://github.com/jfernancordova/docker-spring-boot-api-dev"
+  comment: "The containerized Spring Boot API development environment."
+  language: "Java, Docker"
+
 - title: "Docker Laravel API Development"
   url: "https://github.com/jfernancordova/docker-laravel-api-dev"
-  comment: "The containerized Laravel API"
+  comment: "The containerized Laravel API."
   language: "PHP, Docker"
 
 - title: "Laravel Stripe"
