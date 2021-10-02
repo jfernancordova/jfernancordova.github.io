@@ -1,3 +1,10 @@
+- title: "DS-Algo-Zone"
+  url: "https://github.com/manan025/DS-Algo-Zone/"
+  issues: [132, 155, 169, 78]
+  prs: [232, 229, 225, 224]
+  language: "Java"
+  icon: github
+  
 - title: "laminas-validator"
   url: "https://github.com/laminas/laminas-validator/"
   issues: [74]
