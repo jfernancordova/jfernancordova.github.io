@@ -1,6 +1,6 @@
 - title: "Senior Backend Developer, Core Platform"
   company: "GeoPagos"
-  link: "https://www.geopagos.com/"
+  link: "https://en.geopagos.com/"
   dates: "2021 - Present"
   points:
     - Developed and designed multiple core-platform features.
@@ -16,7 +16,7 @@
    
 - title: "Backend Developer, Delivery"
   company: "GeoPagos"
-  link: "https://www.geopagos.com/"
+  link: "https://en.geopagos.com/"
   dates: "2019 - 2021"
   points:
     - Developed RESTful APIs to support core product features.
@@ -35,7 +35,7 @@
 
 - title: "Backend Developer, DevOps"
   company: "GeoPagos"
-  link: "https://www.geopagos.com/"
+  link: "https://en.geopagos.com/"
   dates: "2018 - 2019"
   points:
     - Worked on Architecture oriented to MicroServices supported by Containers. Docker ecosystem.
