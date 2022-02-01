@@ -8,6 +8,7 @@
     - Refactored codebase to reduce bugs and making it reusable.
     - Built microservices to efficiently process the accreditations and withholding of 4.5 million transactions each year.
   tech:
+  - Symfony PHP Framework
   - Spring Boot Java Framework
   - Docker
   - MongoDB
