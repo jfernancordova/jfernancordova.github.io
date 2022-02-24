@@ -1,3 +1,8 @@
+- title: "Hackerrank Solutions"
+  url: "https://github.com/jfernancordova/hackerrank-solutions"
+  comment: "A collection of Java solutions on HackerRank."
+  language: "Java"
+
 - title: "Docker Spring Boot API Development"
   url: "https://github.com/jfernancordova/docker-spring-boot-api-dev"
   comment: "The containerized Spring Boot API."
