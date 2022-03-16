@@ -8,8 +8,10 @@
     - Refactored codebase to reduce bugs and making it reusable.
     - Built microservices to efficiently process the accreditations and withholding of 4.5 million transactions each year.
   tech:
-  - Symfony PHP Framework
-  - Spring Boot Java Framework
+  - PHP
+  - Java
+  - Symfony Framework
+  - Spring Boot Framework
   - Docker
   - MySQL
   - MongoDB
@@ -26,6 +28,7 @@
     - Managed a team as Technical Reference.
     - Collaborated and supported the technical team through a variety of challenges.
   tech:
+    - PHP
     - Symfony PHP Framework
     - API Platform
     - Python
@@ -43,8 +46,9 @@
     - Worked on Architecture oriented to MicroServices supported by Containers. Docker ecosystem.
     - Created an internal platform for the management, monitoring and control of Delivery (SwOps).
   tech:
+    - PHP
     - Golang
-    - Yii PHP Framework
+    - Yii Framework
     - Docker
     - Portainer
     - Traefik
@@ -63,7 +67,8 @@
     - Created and configured EC2 Instances, Load Balancing and domain names in AWS.
     - Developed server-side applications using Git Workflow.
   tech:
-    - Laravel PHP Framework
+    - PHP
+    - Laravel Framework
     - MySQL
     - Nginx
     - Redis
