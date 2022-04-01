@@ -9,8 +9,8 @@ port: 3000
 safe: true
 url: https://jfernancordova.github.io
 baseurl: /
-title: José Cordova
-author: José Cordova
+title: José Córdova
+author: José Córdova
 description: Personal blog and resume
 avatar: profile.png
 email: jfernancordova@gmail.com
