@@ -1,7 +1,28 @@
+- title: "Senior Software Engineer"
+  company: "Capitole Consulting"
+  link: "https://capitole-consulting.com/"
+  dates: "2022 - Present"
+  points:
+    - Worked on eCommerce platform for large-scale luxury fashion company and related decision support systems.
+    - Developed and designed async features using AWS SQS and OpenSearch.
+    - Worked on Naive trees to save hierarchy data like URLs and taxonomies and translations.
+    - Worked on Architecture oriented to MicroServices supported by Kubernetees, Terraform, Jenkins and AWS.
+  tech:
+  - Golang
+  - PHP
+  - Symfony Framework
+  - BDD
+  - AWS SQS
+  - OpenSearch
+  - Kubernetes
+  - Terraform
+  - Jenkins
+  - Gitlab
+  
 - title: "Senior Backend Developer, Core Platform"
   company: "GeoPagos"
   link: "https://en.geopagos.com/"
-  dates: "2021 - Present"
+  dates: "2021 - 2022"
   points:
     - Developed and designed multiple core-platform features.
     - Designed and implemented class diagrams to reduce couplings and bloaters.
