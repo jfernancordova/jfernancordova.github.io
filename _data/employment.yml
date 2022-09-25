@@ -4,7 +4,7 @@
   dates: "2022 - Present"
   points:
     - Working on Naive trees to save hierarchy data like URLs and taxonomies/translations.
-    - Developing and designed async features using AWS SQS and OpenSearch.
+    - Developing and designing async features using AWS SQS and OpenSearch.
     - Working on Architecture oriented to MicroServices supported by Kubernetees, Terraform, Jenkins and AWS.
   tech:
   - Golang
