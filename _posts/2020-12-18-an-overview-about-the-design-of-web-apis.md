@@ -11,7 +11,7 @@ tags:
 I finished reading two great books where explain everything about APIs (concepts, rules, fundamentals, standards, 
 and so on). The main goal is creating APIs easy to use and easy to understand making them simple and predictable!
 
----
+<br>
 
 ### An API must be designed from its consumer’s perspective and not its provider’s
 ---
@@ -23,7 +23,7 @@ and so on). The main goal is creating APIs easy to use and easy to understand ma
 * Where do the inputs come from?
 * How are the outputs used?
 
----
+<br>
 
 ### How can I visualize these questions in a friendly way?
 ---
@@ -31,7 +31,7 @@ and so on). The main goal is creating APIs easy to use and easy to understand ma
 * [Use Cases](https://en.wikipedia.org/wiki/Use_case)
 * [UML diagrams](https://www.uml-diagrams.org/)
 
----
+<br>
 
 ### Basic principles
 ---
@@ -49,7 +49,7 @@ and so on). The main goal is creating APIs easy to use and easy to understand ma
 * URI (Universal Resource Indicator) only content after the protocol, hostname and port (the path, extension and query string).
 * <cite> Without hypermedia controls an API is not RESTful. [Roy Fielding](https://en.wikipedia.org/wiki/Roy_Fielding)</cite>
 
----
+<br>
 
 ### HTTP Methods
 ---
@@ -59,7 +59,7 @@ and so on). The main goal is creating APIs easy to use and easy to understand ma
 * POST (not idempotent) can be used to create a nonexisting resource in the request’s body (it does not return information).
 * DELETE can be used on a resource to delete, undo, or cancel the concept represented by a URL.
 
----
+<br>
 
 ### Constraints for APIs RESTful
 ---
@@ -70,7 +70,7 @@ and so on). The main goal is creating APIs easy to use and easy to understand ma
 * Code on demand (A server can transfer executable code to the client)
 * Uniform interface (the concept of identified resources)
 
----
+<br>
 
 ### API description formats
 ---
@@ -79,14 +79,14 @@ It is a data format whose purpose is to describe an API.
 * [JSON Schema specification](https://json-schema.org/specification.html)
 * [JSON:API](https://jsonapi.org/)
 
----
+<br>
 
 ### Data serialization format
 ---
 * [YAML (human-friendly)](https://yaml.org/)
 * [JSON](https://www.json.org/json-en.html)
 
----
+<br>
 
 ### Simple Rules
 ---
@@ -101,7 +101,7 @@ It is a data format whose purpose is to describe an API.
 * Optimizing communication for efficiency can have important effects on the design.
 * API designer must question, challenge, investigate, validate, and analyze everything regarding the design.
 
----
+<br>
 
 ### Designing APIs requires to
 ---
@@ -110,7 +110,7 @@ It is a data format whose purpose is to describe an API.
 * Carefully consider the provider’s limitations, and to solve problems without impacting the design and adapting the design.
 * Ignore fashion and personal preferences.
 
----
+<br>
 
 ###  Consistency
 ---
@@ -121,7 +121,7 @@ It is a data format whose purpose is to describe an API.
 * With rules in a document called the “API Design Guidelines” or “API Design Style Guide.”
 * With appropriate level of granularity for versioning.
 
----
+<br>
 
 ### Authentication
 ---
@@ -129,7 +129,7 @@ It is a data format whose purpose is to describe an API.
 * [Digest access authentication](https://en.wikipedia.org/wiki/Digest_access_authentication)
 * [OAuth 2.0](https://oauth.net/2/)
 
----
+<br>
 
 ### Tests
 ---
@@ -137,7 +137,7 @@ It is a data format whose purpose is to describe an API.
 * Each RESTful resource needs at least one feature.
 * One scenario for each action (has an endpoint).
 
----
+<br>
 
 ### Documentation
 ---
@@ -147,7 +147,7 @@ The API lifecycle Growing APIs requires that we know the API lifecycle and under
 * [PlantUML](https://plantuml.com/)
 * [API Blueprint](https://apiblueprint.org/)
 
----
+<br>
 
 ### Web Concepts
 ---
@@ -155,7 +155,7 @@ Designing APIs and building API design guidelines requires a solid understanding
 * [Web Concepts website](http://webconcepts.info/)
 * [The API Stylebook](http://apistylebook.com)
 
----
+<br>
 
 ### Versioning
 ---
@@ -167,14 +167,14 @@ Designing APIs and building API design guidelines requires a solid understanding
 * Approach #5: Content Negotiation.
 * Approach #6: Content Negotiation for Resources (the best approach).
 
----
+<br>
 
 ### Standards
 ---
 * [RFC](https://en.wikipedia.org/wiki/Request_for_Comments)
 * [ISO](https://www.iso.org/home.html)
 
----
+<br>
 
 ### API Styles
 ---
@@ -182,7 +182,7 @@ Designing APIs and building API design guidelines requires a solid understanding
 * [gRPC - Open Source remote procedure call and exposes functions](https://grpc.io/docs/languages/csharp/quickstart/)
 * [GraphQL - Allowing consumers to retrieve exactly the data they want](https://graphql.org/)
 
----
+<br>
 
 ### [HATEOAS](https://en.wikipedia.org/wiki/HATEOAS)
 ---
@@ -191,7 +191,7 @@ It stands for Hypermedia as the Engine of Application State.
 * [Content negotiation](https://developer.mozilla.org/en-US/docs/Web/HTTP/Content_negotiation) Handle content negotiation with file extensions.
 * [Hypermedia controls (hyperlinks)](https://sites.google.com/site/restframework/hypermedia-controls) They are links to other content, relationships, and further actions.
 
----
+<br>
 
 ### Bibliography
 ---

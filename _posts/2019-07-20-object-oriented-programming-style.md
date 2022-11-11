@@ -2,7 +2,9 @@
 layout: post
 title: Object-Oriented Programming Style
 tags:
-  - 3 min read
+  - oop
+  - design-object
+  - programming-style
 ---
 
 ## Introduction
@@ -14,20 +16,20 @@ Practicing on projects from scratch can be a good entry point, but the truth is 
 
 Thanks to [Matthias Noback’s object design style](https://livebook.manning.com/book/object-design-style-guide/about-this-book/) and some notes from [Object-Oriented Analysis and Design with Applications](https://www.amazon.com/Object-Oriented-Analysis-Design-Applications-3rd/dp/020189551X), books that I highly recommend, I could understand how OOP could be a great solution, especially for scalable Apps or APIs Restful.
 
----
+<br>
 
 ## Semantics
 ---
 I always create interfaces or classes with minor responsibilities and try to name them with a meaningful name. It can be very tedious and risky, no matter encapsulations, inheritances, or associations.
 I define a class or interface in a singular noun, attributes or properties too, obviously if I know the attribute's type, for example, an array, it would be a plural noun, the methods are verbs, as a prefix (get, process, have) or any word that has an action to do, it can be a plural or singular noun, it always depends about the business model, that's why semantic is very important.
 
----
+<br>
 
 ## Comments and Simplicity
 ---
 I don't comment any class, interface, methods, or attributes. If the object has a meaningful name, the comments would be unnecessary. It exists situations where an object could be hard to read, I prefer to document it instead declare comments. I follow the [Visual Debt](https://laracasts.com/series/php-bits/episodes/1) and [Simple Rules for Simpler Code](https://laracasts.com/series/simple-rules-for-simpler-code) by Jeffrey Way. He explains the code simplicity in a practice way!
 
----
+<br>
 
 ## More Best Practice and Less Code Smell 
 ---
@@ -52,7 +54,7 @@ I always try to follow these rules/principles when I start coding
 
 There are a lot of principles or rules to design well code and avoid code smells. The secret for me, it's simplicity, I know that it's not easy, but the practice, it becomes easier.
 
----
+<br>
 
 ## Design Patterns
 ---
@@ -68,7 +70,8 @@ Design Pattern can be a solution for complex features, frameworks, or scalable A
 * If a simple factory doesn't work because of complexity, then I apply the Factory Method.
 * Don't I need multiple instances? I read what is the most convenient design pattern for my feature or implementation.
 
----
+<br>
+
 ## Bibliography
 ---
 - [Object design style](https://livebook.manning.com/book/object-design-style-guide/about-this-book)

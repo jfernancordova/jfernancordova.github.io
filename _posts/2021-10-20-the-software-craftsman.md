@@ -90,7 +90,7 @@ I'm going to quote the topics that I find most interesting to study and incorpor
   - Listing tecnologies
   - Wrong cultural fit criteria
   - Listing the wrong requirement
-  - wrong filter
+  - Wrong filter
 - A job it not just a job.
 
 <br>

@@ -14,7 +14,7 @@ In this article, I would like to talk about Hexagonal Architecture, an architect
 
 When we work with APIs, SDKs, or scalable web applications, our first choice is to work with a robust framework and, most of them depend on the programming language. Usually, some frameworks implement MVC or other architectures patterns and, we don't worry about them. However, Hexagonal Architecture provides us a good design, easy to adapt, easy to scale, and helps us to divide our responsibilities into layers.
 
----
+<br>
 
 ## Layers and Dependency Rule
 ---
@@ -28,7 +28,7 @@ This rule says the code that belongs to each layer must only know the objects or
 <br>
 > We can create layers in a customizable way. It always depends on our domain context.
 
----
+<br>
 
 ## Domain
 ---
@@ -112,7 +112,7 @@ interface ProductRepository
 }
 ```
 
----
+<br>
 
 ## Application
 ---
@@ -183,7 +183,7 @@ final class ProductResponse
 }
 ```
 
----
+<br>
 
 ## Infrastructure
 ---
@@ -335,6 +335,8 @@ HexagonalArchitecture
     │   MySqlProductRepository.php
 
 ```
+
+<br>
 
 ## Bibliography
 ---

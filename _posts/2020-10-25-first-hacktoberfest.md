@@ -10,7 +10,7 @@ tags:
 
 I participated for the first time and, I could say, **it was amazing**.  I'm so happy to contribute to this great community and help to solve challenges. 
 
----
+<br>
 
 ### Contributions
 ---
@@ -22,7 +22,7 @@ I participated for the first time and, I could say, **it was amazing**.  I'm so 
 * [Phpsu: Synchronisation Utility: File and Database](https://github.com/phpsu/phpsu/pull/167)
 * [FonteSolutions](https://github.com/fontenele/php/pull/11)
 
----
+<br>
 
 ## What I Learned
 ---
@@ -37,7 +37,7 @@ I participated for the first time and, I could say, **it was amazing**.  I'm so 
   height: 10%;"
 />
 
----
+<br>
 
 ## Notes
 ---

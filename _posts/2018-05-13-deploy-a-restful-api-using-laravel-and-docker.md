@@ -2,10 +2,12 @@
 layout: post
 title: Deploy a RESTful API using Laravel and Docker
 tags:
-  - 2 min read
+  - docker
+  - laravel
+  - api
 ---
 
-# Getting Started
+## Getting Started
 
 ---
 
@@ -18,12 +20,13 @@ tags:
 
 You can manage a RESTful API in the fastest, simplest and funniest way! and with open source code dependencies. However you can contribute for better performance, the goal is to focus on the code avoiding the configurations and having docker installed.
 
+<br>
 
-### Github Repository
+## Github Repository
 ---
 - [docker-laravel-api-ev](https://github.com/jfernancordova/docker-laravel-api-dev)
 
----
+<br>
 
 ## Prerequisites
 ---
@@ -32,10 +35,9 @@ You can manage a RESTful API in the fastest, simplest and funniest way! and with
 
 - [Docker Compose](https://docs.docker.com/compose/install/)
 
----
+<br>
 
 ## Environments
----
 
 ### Dev or Local Mode
 ---
@@ -43,8 +45,6 @@ You can manage a RESTful API in the fastest, simplest and funniest way! and with
   Note: the yaml file has a key called:"XDEBUG_MODE", this yaml by default has the value true (1) to install it.
 
 You can appreciate the dependencies generated automatically on your workspace!
-
----
 
 ### Play with Docker Mode
 ---
@@ -59,18 +59,16 @@ docker ps
 # make sure that the docker dockerlaravelapidev_php_1 or php container is (healthy),
 normally the process begins in starting mode (health: starting)
 ```
----
 
 ### Production Mode
 ---
 - docker-compose-prod.yml: if you are going to use this yaml, make sure to generate the migrations before!, you can modify the entrypoint to generate them.
 
----
+<br>
 
 ## Deployments
 ---
 Clone this repository and run the following commands based on your orchestrator.
----
 
 ### Swarm Mode
 Clone this repository and run the following commands:
@@ -93,23 +91,27 @@ docker-compose -f docker-compose-dev.yml up
 # wait for the HEALTHCHECK in healthy mode
 ```
 
+<br>
+
 ## Running the tests
 ---
 You have a [Travis](https://travis-ci.org/) Pipeline to apply Continous Integration, and other technology to test this environment. You can modify the runtests.sh from the [scripts folder](https://raw.githubusercontent.com/jfernancordova/docker-laravel-api-dev/master/scripts/runtests.sh).
 
 Insert jobs, instructions builds in [this pipeline](https://raw.githubusercontent.com/jfernancordova/docker-laravel-api-dev/master/.travis.yml).
 
----
+<br>
 
 ## API Boilerplate Reference
 ---
 - [laravel-api-boilerplate-jwt](https://github.com/francescomalatesta/laravel-api-boilerplate-jwt/blob/master/readme.md)
 
+<br>
 
 ## License
 ---
 This project is licensed under the MIT License - see the [LICENSE.md](https://github.com/jfernancordova/docker-laravel-api-dev/blob/master/LICENSE.md) file for more details.
 
+<br>
 
 ## Notes
 ---
