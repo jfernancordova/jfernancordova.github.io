@@ -123,10 +123,10 @@ As Software Engineers, it's always interesting to hear the perspectives of other
 ##  Habit 9: Mario or Sonic?
 ---
 
-- Mario:
+- <strong>Mario:</strong>
   - A programmer who stay at their job for six months and then move to another.
   - He is confident and strong, but most of the time, he's really just avoiding dangerous situations.
-- Sony:
+- <strong>Sony:</strong>
   - He is always willing to face the biggest challenges he can encounter.
   - A programmer who whould be always looking for complex problems to solve and for the most cutting edge tecnologies to work with.
   - He can learn new things, adapt to new challenges, and does not stay behind.
@@ -135,8 +135,111 @@ As Software Engineers, it's always interesting to hear the perspectives of other
 
 <br>
 
+##  Habit 10: Active Listening
+---
+
+- One misconception many people hjhave is that we need to listen to reply, whereas in reality, we need to listen to understand.
+- Understanding someone is far more important than replying to someone.
+- Practice the habit of active listening. Not just listening in order to reply.
+
+> Anyone can reply, few can understand.
+
+- Communication is an art and needs to be practiced every day, as well as an opportunity for letting us speak.
+- We can use techniques like in order to be organized with the team:
+  - [Zero Inbox](https://www.techtarget.com/whatis/definition/inbox-zero): is a rigorous approach to email management that aims to keep an inbox empty or almost empty at all. times.
+  - [Bullet Journal](https://bulletjournal.com/): the system organizes scheduling, reminders, to-do lists, brainstorming, and other organizational tasks into a single notebook.
+
+<br>
+
+##  Habit 11: Don't Underestimate
+---
+
+- Why are we still so bad at sofware estimates?
+  - We want to impress others.
+  - We forget that's not all about coding.
+  - We don't focus on one thing.
+  - We thing everyone is the same.
+  - We can't handle the pressure.
+- We must admint that it is impossible to be 100% accurate with estimates.
+- In the book [Software Estimation: Demystifying the Black Art by Steve McConnel](https://www.amazon.com/Software-Estimation-Demystifying-Developer-Practices/dp/0735605351):
+  - Separating large tasks into smaller ones improves the accuracy of estimates.
+  - <strong>Estimate in ranges</strong>:
+    - Worst case.
+    - Most likely case.
+    - Best case.
+  - For first time development with a new language/tool compare with development using a familiar language/tool, allows for a 20% to 40% increase in effort.
+  - Document and communicate the assumptions embedded in your estimate.
+  - "Bottom Up" based on estimates created by people who will actually do the work.
+- Treat estimation discussions as problem-solving, not negotiation.
+- Both you and the project stakeholders are on the same side of the table.
+- A nice trick could be: Once you have that estimate, multiply it by 2. 
+
+<br>
+
+##  Habit 12: Specialist vs Generalist
+---
+
+- Once you become a senior, what path should you take next?
+  - Become a specialist, someone aware of all the details in a certain subject.
+    - <strong>Pros:</strong>
+      - You can typically gain a lot of technical authority in a particular subject.
+      - You need to keep up to date in only one platform/language.
+    - <strong>Cons:</strong>
+      - If the chosen technology has a risk of becoming obsolete, it will be hard to start from the bottom again.
+      - If there is an urgent need to use another technology, there is a chance you will take longer to complete a certain task.
+  - Become a generalist, someone able to tackle a variety of different subjects
+    - <strong>Pros:</strong>
+      - You are used to learning new tecnologies fast.
+      - If you need job, you are flexible and easy to transition.
+      - Switch Context: There is a change you will find a solution faster than others.
+    - <strong>Cons:</strong>
+      - It is possible that you will take a long time to solve very complex and technology-specific problems.
+      - It is difficult to reach a leadership position if you are changing fields constantly.
+- Create a habit of asking yourself: "How can I better help my team"
+
+<br>
+
+##  Habit 13: Control Your Variables
+---
+
+> <strong>Do you have a problem?</strong>
+  - Yes
+    - <strong>Can you do something about it?</strong>
+      - Yes
+        - <strong>Then don't worry.</strong>
+      - No
+        - <strong>Then don't worry.</strong>
+  - No
+    - <strong>Then don't worry.</strong>
+  
+- <strong>Variables that you can control:</strong>
+  - Your thoughts.
+  - What you eat and drink.
+  - How you spend your money.
+  - What you do with your time.
+  - How you treat your body.
+- <strong>Variables that you cannot control:</strong>
+  - How people treat you.
+  - What people think of you.
+  - What people like or dislike.
+- Stop wasting time on varialbes that are out of your control. Focus on the variables that you can change.
+
+<br>
+
+##  Habit 14: Stop Waiting
+---
+
+- There is always something to be accomplished or something to complain about.
+- The only thing that prevents you from achieving something is yourself.
+- The fact is, most people have the ability to recognize what bothers them, but only a few people have the courage and determination to face those challenges. 
+
+<br>
+
 ## Bibliography
 ---
 
 - [14 Habits of Highly Productive Developers](https://www.amazon.com/14-Habits-Highly-Productive-Developers/dp/1735266531) by [Zeno Rocha](https://14habits.com/).
 - [The XY Problem](https://xyproblem.info/).
+- [Zero Inbox](https://www.techtarget.com/whatis/definition/inbox-zero).
+- [Bullet Journal](https://bulletjournal.com/).
+- [Software Estimation: Demystifying the Black Art by Steve McConnel](https://www.amazon.com/Software-Estimation-Demystifying-Developer-Practices/dp/0735605351).
