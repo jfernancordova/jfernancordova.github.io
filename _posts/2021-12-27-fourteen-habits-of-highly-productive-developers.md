@@ -110,6 +110,31 @@ As Software Engineers, it's always interesting to hear the perspectives of other
 
 <br>
 
+##  Habit 8: Side Projects
+---
+
+- Side projects can be tremendous opportunity to grow your portfolio, build a résumé, and showcase your skills.
+- They allow you to experience and learn new skills that your daily work might not offer.
+- No pressure, schedules, or specifications imposed by anyone.
+- The impact side projects give opportunities to create libraries and tools that can be used by others.
+
+<br>
+
+##  Habit 9: Mario or Sonic?
+---
+
+- Mario:
+  - A programmer who stay at their job for six months and then move to another.
+  - He is confident and strong, but most of the time, he's really just avoiding dangerous situations.
+- Sony:
+  - He is always willing to face the biggest challenges he can encounter.
+  - A programmer who whould be always looking for complex problems to solve and for the most cutting edge tecnologies to work with.
+  - He can learn new things, adapt to new challenges, and does not stay behind.
+- Both are amazing and have potential to save the world, but if you have to choose between these two, don't be like Mario; Be like Sonic.
+- You have to stay somewhere for a certain amount of time to make an impact and to expose yourself to the opportunities what will take your career to the next level.
+
+<br>
+
 ## Bibliography
 ---
 
