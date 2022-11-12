@@ -222,7 +222,7 @@ As Software Engineers, it's always interesting to hear the perspectives of other
   - How people treat you.
   - What people think of you.
   - What people like or dislike.
-- Stop wasting time on varialbes that are out of your control. Focus on the variables that you can change.
+- Stop wasting time on variables that are out of your control. Focus on the variables that you can change.
 
 <br>
 
