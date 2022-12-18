@@ -2,9 +2,13 @@
   <div id="footer">
     <div class="container">
       <p class="text-muted">
-        Powered by <a href="http://jekyllrb.com/">Jekyll</a> and
-        <a href="http://www.github.com/jekyller/sustain">sustain</a> with ♥
+        ©<span id="year"></span> José Córdova. All rights reserved.
       </p>
+      <script>
+        (function () {
+          document.getElementById("year").innerHTML = new Date().getFullYear();
+        })();
+    </script>
     </div>
   </div>
 </footer>
