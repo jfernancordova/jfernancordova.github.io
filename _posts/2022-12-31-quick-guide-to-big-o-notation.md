@@ -207,7 +207,7 @@ I'll include some golang snippets to help clarify them.
             called the Fibonacci sequence, such that each number is
             the sum of the two preceding ones, starting from 0 and 1.
             
-            O(n) time | O(1) space
+            O(2^n) time | O(1) space
         */
         func fib(n int) int {
             result := 0
