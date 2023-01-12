@@ -5,7 +5,7 @@
   language: "PHP"
   icon: github
 
-- title: "Phpsu: Synchronisation Utility: File and Database"
+- title: "Phpsu"
   url: "https://github.com/phpsu/phpsu/"
   issues: [162]
   prs: [167]

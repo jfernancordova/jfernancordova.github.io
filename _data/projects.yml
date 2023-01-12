@@ -8,19 +8,19 @@
   comment: "Solutions for Problem Solving's certification."
   language: "Java"
 
-- title: "Docker Spring Boot API Development"
+- title: "Docker Spring Boot"
   url: "https://github.com/jfernancordova/docker-spring-boot-api-dev"
-  comment: "The containerized Spring Boot API."
+  comment: "Spring Boot API Dockerized."
   language: "Java, Docker"
 
-- title: "Docker Laravel API Development"
+- title: "Docker Laravel"
   url: "https://github.com/jfernancordova/docker-laravel-api-dev"
-  comment: "The containerized Laravel API."
+  comment: "Laravel API Dockerized."
   language: "PHP, Docker"
 
 - title: "Laravel Stripe"
   url: "https://github.com/jfernancordova/laravel-stripe"
-  comment: "Laravel - Stripe with Social and Email Authentication."
+  comment: "Stripe with Social and Email Authentication."
   language: "PHP, Stripe"
 
 - title: "Larazoho"
