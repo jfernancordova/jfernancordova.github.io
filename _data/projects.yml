@@ -20,7 +20,7 @@
 
 - title: "Laravel Stripe"
   url: "https://github.com/jfernancordova/laravel-stripe"
-  comment: "Stripe with Social and Email Authentication."
+  comment: "An Integration with Social and Authentication."
   language: "PHP, Stripe"
 
 - title: "Larazoho"
