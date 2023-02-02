@@ -1,6 +1,6 @@
 - title: "Senior Software Engineer"
-  company: "Capitole Consulting"
-  link: "https://capitole-consulting.com/"
+  company: "Mytheresa"
+  link: "https://www.mytheresa.com/"
   dates: "2022 - Present"
   points:
     - Working on Naive trees to save hierarchy data like URLs and taxonomies/translations.
@@ -9,6 +9,7 @@
     - Working on Architecture oriented to MicroServices supported by Kubernetees, Terraform, Jenkins, Datadog and AWS.
   tech:
   - Golang
+  - GraphQL
   - PHP
   - Symfony Framework
   - Behavior-driven development
