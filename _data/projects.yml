@@ -1,8 +1,3 @@
-- title: "Go LeetCode"
-  url: "https://github.com/jfernancordova/go-leetcode"
-  comment: "Solutions for LeetCode."
-  language: "Go"
-
 - title: "Java HackerRank"
   url: "https://github.com/jfernancordova/java-hackerrank"
   comment: "Solutions for Problem Solving's certification."
