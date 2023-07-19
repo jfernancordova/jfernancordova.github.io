@@ -6,12 +6,15 @@
     - Working on Naive trees to save hierarchy data like URLs and taxonomies/translations.
     - Developing and designing async features using AWS SQS and OpenSearch.
     - Implementing performance optimizations like memoization, eager evaluation and caching using Blackfire.io.
-    - Working on Architecture oriented to MicroServices supported by Kubernetees, Terraform, Jenkins, Datadog and AWS.
+    - Working on services oriented to MicroServices supported by Golang, Kubernetes, Terraform, Jenkins, Datadog and AWS.
   tech:
   - Golang
+  - Eventx
+  - Gin
+  - Gorm
   - GraphQL
-  - PHP
-  - Symfony Framework
+  - PostgreSQL
+  - Mysql
   - Behavior-driven development
   - AWS SQS
   - Amazon Web Services
