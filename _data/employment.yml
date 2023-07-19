@@ -15,9 +15,8 @@
   - GraphQL
   - PostgreSQL
   - Mysql
-  - Behavior-driven development
-  - AWS SQS
-  - Amazon Web Services
+  - BDD
+  - AWS SQS/SNS
   - OpenSearch
   - Kubernetes
   - Terraform
