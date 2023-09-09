@@ -1,6 +1,6 @@
 - title: "Concurrency in Go"
   url: "https://github.com/jfernancordova/go-concurrency"
-  comment: "Fundamentals, techniques and concurrency patterns in Go."
+  comment: "Fundamentals, techniques and concurrency patterns."
   language: "Go"
 
 - title: "Java HackerRank"
