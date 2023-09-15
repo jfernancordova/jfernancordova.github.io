@@ -1,6 +1,6 @@
 ---
 layout: post
-title: HackerRank
+title: Java HackerRank
 tags:
   - 1 min read
 ---
