@@ -12,7 +12,7 @@ The [GitHub repository](https://github.com/jfernancordova/java-hackerrank) conta
 
 <br>
 
-## The Java solutions in this repository:
+## The Java solutions
 ---
 
 The HackerRank Problem Solving certification is a standardized assessment that helps developers prove their coding skills. The certification covers a variety of topics, including algorithms, data structures, and problem solving.
@@ -30,7 +30,7 @@ In this repository cover the following topics:
 
 <br>
 
-## Conclusion:
+## Conclusion
 ---
 
 The ["java-hackerrank" repository](https://github.com/jfernancordova/java-hackerrank) is a valuable asset for anyone looking to enhance their Java programming skills. With its vast collection of challenges. Happy coding!
