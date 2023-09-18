@@ -30,6 +30,19 @@ In this repository cover the following topics:
 
 <br>
 
+## Certificates
+
+- [Problem Solving (Basic)](https://github.com/jfernancordova/java-hackerrank/tree/main/problem-solving-basic)
+    - [String Anagram](https://github.com/jfernancordova/java-hackerrank/tree/main/problem-solving-basic/string-anagram)
+    - [Usernames Changes](https://github.com/jfernancordova/java-hackerrank/tree/main/problem-solving-basic/usernames-changes)
+    
+ - [Problem Solving (Intermediate)](https://github.com/jfernancordova/java-hackerrank/tree/main/problem-solving-intermediate)
+    - [Maximum Value](https://github.com/jfernancordova/java-hackerrank/tree/main/problem-solving-intermediate/maximum-value)
+    - [FIle Renaming](https://github.com/jfernancordova/java-hackerrank/tree/main/problem-solving-intermediate/file-renaming)
+
+
+<br>
+
 ## Conclusion
 ---
 
