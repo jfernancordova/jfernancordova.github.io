@@ -33,4 +33,4 @@ In this repository cover the following topics:
 ## Conclusion
 ---
 
-The ["java-hackerrank" repository](https://github.com/jfernancordova/java-hackerrank) is a valuable asset for anyone looking to enhance their Java programming skills. With its vast collection of challenges. Happy coding!
+The [repository](https://github.com/jfernancordova/java-hackerrank) is a valuable asset for anyone looking to enhance their Java programming skills. With its vast collection of challenges.
