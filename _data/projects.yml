@@ -1,3 +1,8 @@
+- title: "Subscription Service"
+  url: "https://github.com/jfernancordova/subscription-service"
+  comment: "A flexible subscription management system using concurrency patterns."
+  language: "Go"
+
 - title: "Concurrency in Go"
   url: "https://github.com/jfernancordova/go-concurrency"
   comment: "Fundamentals, techniques and concurrency patterns."
