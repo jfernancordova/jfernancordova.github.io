@@ -2,6 +2,21 @@
   company: "mytheresa.com"
   link: "https://www.mytheresa.com/"
   dates: "2022 - Present"
+  tech:
+  - Golang
+  - Eventx
+  - Gin
+  - Gorm
+  - GraphQL
+  - PostgreSQL
+  - AWS S3/SQS/SNS
+  - OpenSearch
+  - Kubernetes
+  - Terraform
+  - Datadog
+  - Blackfire.io
+  - Jenkins
+  - Github  
   
 - title: "Senior Backend Developer, Core Platform"
   company: "GeoPagos"
