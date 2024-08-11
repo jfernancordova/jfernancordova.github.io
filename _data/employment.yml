@@ -2,28 +2,6 @@
   company: "mytheresa.com"
   link: "https://www.mytheresa.com/"
   dates: "2022 - Present"
-  points:
-    - Working on Naive trees to save hierarchy data like URLs and taxonomies/translations.
-    - Developing and designing async features using AWS SQS/SNS and OpenSearch.
-    - Implementing performance optimizations like memoization, eager evaluation and caching using Blackfire.io.
-    - Working on services oriented to MicroServices supported by Golang, Kubernetes, Terraform, Jenkins, Datadog and AWS.
-  tech:
-  - Golang
-  - Eventx
-  - Gin
-  - Gorm
-  - GraphQL
-  - PostgreSQL
-  - Mysql
-  - BDD
-  - AWS SQS/SNS
-  - OpenSearch
-  - Kubernetes
-  - Terraform
-  - Datadog
-  - Blackfire.io
-  - Jenkins
-  - Github
   
 - title: "Senior Backend Developer, Core Platform"
   company: "GeoPagos"
