@@ -98,7 +98,7 @@
 
 - title: "System Analyst Intern"
   company: "PDVSA Petroleos de Venezuela S.A."
-  link: "http://www.pdvsa.com/index.php?lang=es"
+  link: "http://www.pdvsa.com/index.php?lang=en"
   dates: "2015 - 2015"
   points:
     - Refactored a traditional web application to a single-page application using AJAX.
