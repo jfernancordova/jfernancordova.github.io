@@ -13,9 +13,11 @@
   - OpenSearch
   - Kubernetes
   - Terraform
-  - Datadog
-  - Blackfire.io
+  - Prometheus
+  - Grafana
+  - OpenTelemetry
   - Jenkins
+  - Redis
   - Github  
   
 - title: "Senior Backend Developer, Core Platform"
