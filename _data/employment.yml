@@ -1,7 +1,33 @@
 - title: "Backend Engineer"
+  company: "LuxExperience"
+  link: "https://investors.luxexperience.com"
+  dates: "2025 - Present"
+  tech:
+  - Golang
+  - Google Vertex AI 
+  - GraphQL
+  - PostgreSQL
+  - AWS S3/SQS/SNS
+  - OpenSearch
+  - Kubernetes
+  - Atlantis
+  - Terraform
+  - Prometheus
+  - Grafana
+  - OpenTelemetry
+  - Jenkins
+  - Argo CD
+  - Github  
+
+- title: "Backend Engineer"
   company: "mytheresa.com"
   link: "https://www.mytheresa.com/"
-  dates: "2022 - Present"
+  dates: "2022 - 2025"
+  points:
+    - Worked on Naive trees to save hierarchy data like URLs and taxonomies/translations.
+    - Developed and designed async features using AWS SQS/SNS with OpenSearch.
+    - Implemented performance techniques such as memoization, eager evaluation and caching.
+    - Worked on services oriented to MicroServices supported by Golang.
   tech:
   - Golang
   - Eventx
@@ -19,6 +45,7 @@
   - Jenkins
   - Redis
   - Argo CD
+  - Blackfire.io
   - Github  
   
 - title: "Senior Backend Developer, Core Platform"
