@@ -26,7 +26,7 @@
   points:
     - Worked on Naive trees to save hierarchy data like URLs and taxonomies/translations.
     - Developed and designed async features using AWS SQS/SNS with OpenSearch.
-    - Implemented performance techniques such as memoization, eager evaluation and caching.
+    - Implemented performance techniques such as memoization and caching.
     - Worked on services oriented to MicroServices supported by Golang.
   tech:
   - Golang
