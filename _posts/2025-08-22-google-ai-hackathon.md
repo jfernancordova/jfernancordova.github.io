@@ -35,6 +35,7 @@ Google Cloud has invested a lot of resources to build and use different kind of 
 
 We explored how to move beyond basic Large Language Models (LLMs) to build goal-oriented AI agents.
 <br>
+<br>
 
 ### The Evolution of AI
 ---
@@ -42,17 +43,20 @@ We explored how to move beyond basic Large Language Models (LLMs) to build goal-
 AI agents represent the next step in the evolution of AI. While traditional LLMs are great for generating text and [retrieval-augmented generation (RAG)](https://en.wikipedia.org/wiki/Retrieval-augmented_generation "Retrieval-Augmented Generation - AI technique that combines text generation with information retrieval") adds external data, agents go a step further. They are applications that perceive, decide, and act to achieve a specific goal. This is made possible by giving them access to tools like APIs and databases.
 This shift from simple LLM prompts to multi-agent systems is key to unlocking new enterprise value.
 <br>
+<br>
 
 ### The Agent Development Kit (ADK)
 ---
 
 A tool for building these systems. It's a client-side SDK that helps us create and customize multi-agent applications for complex, real-world scenarios. It provides a balance of deterministic and agentic methods, a rich tool ecosystem, and multi-agent by design capabilities. The ADK also allows for defining an agent and its tools with minimal boilerplate code.
 <br>
+<br>
 
 ### The Model Context Protocol (MCP)
 ---
 
 Model Context Protocol (MCP), which acts as a "USB-C port" for AI models. This open standard bridges the gap between AI models and external data sources and tools, simplifying how LLMs get context and execute actions. MCP is used to connect agents to tools, APIs, and resources with structured inputs and outputs.
+<br>
 <br>
 
 ### Building Agents on Google Cloud
@@ -65,7 +69,7 @@ During the hackathon, I learned there are several ways to build agents on Google
 - [ADK + Vertex AI Agent Engine](https://cloud.google.com/vertex-ai/docs/agents "ADK + Vertex AI Agent Engine - Google's recommended path for building AI agents"): The recommended path for developers to build agents using Google's client-side ADK and deploy them on a fully-managed runtime.
 
 We also explored how to connect agents to [BigQuery](https://cloud.google.com/bigquery "BigQuery - Google Cloud's data warehouse for analytics"), a powerful data warehouse for real-time structured data. This can be done using custom function tools with Python code or by using the [ADK](https://cloud.google.com/vertex-ai/docs/agents "Agent Development Kit - Google's SDK for building AI agents")'s built-in.
-
+<br>
 <br>
 
 ## Conclusion
@@ -73,7 +77,7 @@ We also explored how to connect agents to [BigQuery](https://cloud.google.com/bi
 
 This hackathon provided me a great overview of the powerful tools available on Google Cloud for building agents. The combination of ADK, MCP, and Vertex AI provides a robust framework for creating AI applications.
 
-[A huge thank you to the Google Cloud Team for this incredible opportunity and gift!](https://www.linkedin.com/feed/update/urn:li:activity:7361727319628988416)
+[A huge thank you to the Google Cloud Team for this incredible opportunity!](https://www.linkedin.com/feed/update/urn:li:activity:7361727319628988416)
 
 <img src="../assets/images/google-campus-bike.jpg" alt="Google Cloud" style="
   display: block;
