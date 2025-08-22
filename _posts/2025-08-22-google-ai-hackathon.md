@@ -38,7 +38,7 @@ We explored how to move beyond basic Large Language Models (LLMs) to build goal-
 ### The Evolution of AI
 ---
 
-AI agents represent the next step in the evolution of AI. While traditional LLMs are great for generating text and retrieval-augmented generation (RAG) adds external data, agents go a step further. They are applications that perceive, decide, and act to achieve a specific goal. This is made possible by giving them access to tools like APIs and databases.
+AI agents represent the next step in the evolution of AI. While traditional LLMs are great for generating text and [retrieval-augmented generation (RAG)](https://en.wikipedia.org/wiki/Retrieval-augmented_generation "Retrieval-Augmented Generation - AI technique that combines text generation with information retrieval") adds external data, agents go a step further. They are applications that perceive, decide, and act to achieve a specific goal. This is made possible by giving them access to tools like APIs and databases.
 This shift from simple LLM prompts to multi-agent systems is key to unlocking new enterprise value.
 
 ### The Agent Development Kit (ADK)
