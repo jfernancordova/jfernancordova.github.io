@@ -57,10 +57,10 @@ Model Context Protocol (MCP), which acts as a "USB-C port" for AI models. This o
 During the hackathon, I learned there are several ways to build agents on Google Cloud, each suited for different users and use cases.
 
 - Building Agents on Google Cloud
-- Agentspace: A no-code UI for business users to build agents focused on internal employee productivity.
-- ADK + Vertex AI Agent Engine: The recommended path for developers to build agents using Google's client-side ADK and deploy them on a fully-managed runtime.
+- [Agentspace](https://cloud.google.com/vertex-ai/docs/agentspace "Agentspace - Google Cloud's no-code UI for building AI agents"): A no-code UI for business users to build agents focused on internal employee productivity.
+- [ADK + Vertex AI Agent Engine](https://cloud.google.com/vertex-ai/docs/agents "ADK + Vertex AI Agent Engine - Google's recommended path for building AI agents"): The recommended path for developers to build agents using Google's client-side ADK and deploy them on a fully-managed runtime.
 
-We also explored how to connect agents to BigQuery, a powerful data warehouse for real-time structured data. This can be done using custom function tools with Python code or by using the ADK's built-in.
+We also explored how to connect agents to [BigQuery](https://cloud.google.com/bigquery "BigQuery - Google Cloud's data warehouse for analytics"), a powerful data warehouse for real-time structured data. This can be done using custom function tools with Python code or by using the [ADK](https://cloud.google.com/vertex-ai/docs/agents "Agent Development Kit - Google's SDK for building AI agents")'s built-in.
 
 <br>
 
@@ -69,7 +69,7 @@ We also explored how to connect agents to BigQuery, a powerful data warehouse fo
 
 This hackathon provided me a great overview of the powerful tools available on Google Cloud for building agents. The combination of ADK, MCP, and Vertex AI provides a robust framework for creating AI applications.
 
-[Thank you Google Cloud Team](https://www.linkedin.com/feed/update/urn:li:activity:7361727319628988416).
+[A huge thank you to the amazing Google Cloud Team for this incredible opportunity](https://www.linkedin.com/feed/update/urn:li:activity:7361727319628988416).
 
 <img src="../assets/images/google-campus-bike.jpg" alt="Google Cloud" style="
   display: block;
