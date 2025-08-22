@@ -69,7 +69,7 @@ We also explored how to connect agents to BigQuery, a powerful data warehouse fo
 
 This hackathon provided me a great overview of the powerful tools available on Google Cloud for building agents. The combination of ADK, MCP, and Vertex AI provides a robust framework for creating AI applications.
 
-[Thank you Google Cloud](https://www.linkedin.com/feed/update/urn:li:activity:7361727319628988416).
+[Thank you Google Cloud Team](https://www.linkedin.com/feed/update/urn:li:activity:7361727319628988416).
 
 <img src="../assets/images/google-campus-bike.jpg" alt="Google Cloud" style="
   display: block;
