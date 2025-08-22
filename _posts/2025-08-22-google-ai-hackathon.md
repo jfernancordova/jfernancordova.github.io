@@ -18,6 +18,8 @@ Depending of the company, the feature and requirements, it is easy to deep dive 
 
 Google Cloud has invested a lot of resources to build and use different kind of techonlogies focused on AI, that means we can have different solutions for orchestrators, large databases, microservices, and APIs.
 
+<br>
+
 <img src="../assets/images/hackathon.jpg" alt="Google Cloud AI Hackathon" style="
   display: block;
   margin-left: auto;
