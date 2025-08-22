@@ -9,8 +9,8 @@ tags:
 ---
 
 I was invited to participate in the AI Hackathon organized by Google Cloud, where I had the opportunity to know, explore and use AI models built by Google.
-At these times, I was not familiar with new concepts like Large Language Models (LLMs) and Generative AI, MCP (Model Context Protocol) and ADK (Agent Development Kit).
-Google Cloud provided a set of tools and resources to help me build and deploy AI agents using BigQuery, Vertex AI, and Cloud Run.
+At these times, I was not familiar with new concepts like [Large Language Models (LLMs)](https://en.wikipedia.org/wiki/Large_language_model "Large Language Models - AI models that can understand and generate human language") and [Generative AI](https://en.wikipedia.org/wiki/Generative_artificial_intelligence "Generative AI - AI systems that can generate new content"), [MCP (Model Context Protocol)](https://modelcontextprotocol.io/ "Model Context Protocol - Open standard for AI model integration") and ADK (Agent Development Kit).
+Google Cloud provided a set of tools and resources to help me build and deploy AI agents using [BigQuery](https://cloud.google.com/bigquery "BigQuery - Google Cloud's data warehouse for analytics"), [Vertex AI](https://cloud.google.com/vertex-ai "Vertex AI - Google Cloud's machine learning platform"), and [Cloud Run](https://cloud.google.com/run "Cloud Run - Google Cloud's serverless container platform").
 
 I was fascinated about how we can create AI agents that can help us to solve problems and improve our productivity, not only in the development process but also for any context.
 I realized that we need somehow understand how to integrate these new techonologies with our current systems and processes, it is easy to deep dive into this but we need to be careful with the risks and limitations.
