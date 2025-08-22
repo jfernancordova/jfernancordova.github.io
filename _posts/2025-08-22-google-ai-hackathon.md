@@ -12,9 +12,8 @@ I was invited to participate in the AI Hackathon organized by Google Cloud, wher
 At these times, I was not familiar with new concepts like Large Language Models (LLMs) and Generative AI, MCP (Model Context Protocol) and ADK (Agent Development Kit).
 Google Cloud provided a set of tools and resources to help me build and deploy AI agents using BigQuery, Vertex AI, and Cloud Run.
 
-As Software Engineer, I was fascinated about how we can create AI agents that can help us to solve problems and improve our productivity, not only in the development process but also for any context.
-I realized that we need somehow understand how to integrate these new techonologies with our current systems and processes.
-Depending of the company, the feature and requirements, it is easy to deep dive into this but we need to be careful with the risks and limitations.
+I was fascinated about how we can create AI agents that can help us to solve problems and improve our productivity, not only in the development process but also for any context.
+I realized that we need somehow understand how to integrate these new techonologies with our current systems and processes, it is easy to deep dive into this but we need to be careful with the risks and limitations.
 
 Google Cloud has invested a lot of resources to build and use different kind of techonlogies focused on AI, that means we can have different solutions for orchestrators, large databases, microservices, and APIs.
 
@@ -68,9 +67,9 @@ We also explored how to connect agents to BigQuery, a powerful data warehouse fo
 ## Conclusion
 ---
 
-This hackathon provided a great overview of the powerful tools available on Google Cloud for building agents. The combination of ADK, MCP, and Vertex AI provides a robust framework for creating AI applications.
+This hackathon provided me a great overview of the powerful tools available on Google Cloud for building agents. The combination of ADK, MCP, and Vertex AI provides a robust framework for creating AI applications.
 
-[Thank you Google Cloud for the amazing AI Hackathon experience](https://www.linkedin.com/feed/update/urn:li:activity:7361727319628988416).
+[Thank you Google Cloud](https://www.linkedin.com/feed/update/urn:li:activity:7361727319628988416).
 
 <img src="../assets/images/google-campus-bike.jpg" alt="Google Cloud" style="
   display: block;
