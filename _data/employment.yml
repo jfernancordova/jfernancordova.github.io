@@ -3,10 +3,10 @@
   link: "https://www.mytheresa.com/"
   dates: "2022 - Present"
   points:
-    - Designing and implementing custom hierarchical data structures to manage URLs, taxonomies, and translations.
-    - Building asynchronous, event-driven features using AWS SQS/SNS integrated with OpenSearch and VertexAI for scalable data processing.
-    - Improving system performance by applying techniques such as memoization and distributed caching, reducing response times.
-    - Developing microservices in Golang, contributing to a service-oriented architecture powering large-scale e-commerce operations.
+    - Designing custom hierarchical data structures to manage URLs, taxonomies, and translations.
+    - Building asynchronous, event-driven features integrated with Vertex AI for scalable data processing.
+    - Working on performance by applying techniques such as memoization and caching.
+    - Contributing to a service-oriented architecture powering large-scale e-commerce operations.
   tech:
   - Golang
   - VertexAI
