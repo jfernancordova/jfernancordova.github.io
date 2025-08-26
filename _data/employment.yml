@@ -2,9 +2,14 @@
   company: "mytheresa.com"
   link: "https://www.mytheresa.com/"
   dates: "2022 - Present"
+  points:
+    - Designing and implementing custom hierarchical data structures to manage URLs, taxonomies, and translations.
+    - Building asynchronous, event-driven features using AWS SQS/SNS integrated with OpenSearch and VertexAI for scalable data processing.
+    - Improving system performance by applying techniques such as memoization and distributed caching, reducing response times.
+    - Developing microservices in Golang, contributing to a service-oriented architecture powering large-scale e-commerce operations.
   tech:
   - Golang
-  - Eventx
+  - VertexAI
   - Gin
   - Gorm
   - GraphQL
@@ -12,10 +17,7 @@
   - AWS S3/SQS/SNS
   - OpenSearch
   - Kubernetes
-  - Terraform
-  - Prometheus
-  - Grafana
-  - OpenTelemetry
+  - Datadog
   - Jenkins
   - Redis
   - Argo CD
