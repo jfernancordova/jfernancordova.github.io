@@ -12,6 +12,8 @@
   - VertexAI
   - Gin
   - Gorm
+  - PHP
+  - Symfony Framework
   - GraphQL
   - PostgreSQL
   - AWS S3/SQS/SNS
